@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/question/question",
+    "pages/guanyu/guanyu",
+    "pages/daan/daan"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#abc",
+    "navigationBarTitleText": "非遗",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "backgroundColor": "#EEEEE0",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "img/shouye.png",
+        "selectedIconPath": "img/shouye3.png"
+      },
+      {
+        "pagePath": "pages/question/question",
+        "text": "检索",
+        "iconPath": "img/jiansuo.png",
+        "selectedIconPath": "img/jiansuo2.png"
+      },
+      {
+        "pagePath": "pages/guanyu/guanyu",
+        "text": "关于",
+        "iconPath": "img/guanyu.png",
+        "selectedIconPath": "img/guanyu2.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "团队",
+        "iconPath": "img/ganxie.png",
+        "selectedIconPath": "img/ganxie2.png"
+      }
+    ],
+    "color": "#99999"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

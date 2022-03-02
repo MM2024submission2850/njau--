@@ -1,0 +1,5402 @@
+﻿[
+  {
+    "p": {
+"start": {
+"identity": 0,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Of Chloroquine and COVID-19']"
+        }
+      },
+"end": {
+"identity": 1,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Franck Touret', 'Xavier de Lamballerie']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 0,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Of Chloroquine and COVID-19']"
+            }
+          },
+          "relationship": {
+"identity": 0,
+"start": 0,
+"end": 1,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 1,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Franck Touret', 'Xavier de Lamballerie']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 0,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Of Chloroquine and COVID-19']"
+        }
+      },
+"end": {
+"identity": 2,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Unité des Virus Emergents, UVE: Aix Marseille Univ, IRD 190, INSERM 1207, IHU Méditerranée Infection, 13005, Marseille, France. Electronic address: franck.touret@univ-amu.fr.', '2 Unité des Virus Emergents, UVE: Aix Marseille Univ, IRD 190, INSERM 1207, IHU Méditerranée Infection, 13005, Marseille, France. Electronic address: xavier.de-lamballerie@univ-amu.fr.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 0,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Of Chloroquine and COVID-19']"
+            }
+          },
+          "relationship": {
+"identity": 1,
+"start": 0,
+"end": 2,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 2,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Unité des Virus Emergents, UVE: Aix Marseille Univ, IRD 190, INSERM 1207, IHU Méditerranée Infection, 13005, Marseille, France. Electronic address: franck.touret@univ-amu.fr.', '2 Unité des Virus Emergents, UVE: Aix Marseille Univ, IRD 190, INSERM 1207, IHU Méditerranée Infection, 13005, Marseille, France. Electronic address: xavier.de-lamballerie@univ-amu.fr.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 0,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Of Chloroquine and COVID-19']"
+        }
+      },
+"end": {
+"identity": 3,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Antiviral Res']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 0,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Of Chloroquine and COVID-19']"
+            }
+          },
+          "relationship": {
+"identity": 2,
+"start": 0,
+"end": 3,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Antiviral Res']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 4,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Understanding of COVID-19 Based on Current Evidence']"
+        }
+      },
+"end": {
+"identity": 5,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Pengfei Sun', 'Xiaosheng Lu', 'Chao Xu', 'Wenjuan Sun', 'Bo Pan']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 4,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Understanding of COVID-19 Based on Current Evidence']"
+            }
+          },
+          "relationship": {
+"identity": 3,
+"start": 4,
+"end": 5,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 5,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Pengfei Sun', 'Xiaosheng Lu', 'Chao Xu', 'Wenjuan Sun', 'Bo Pan']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 4,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Understanding of COVID-19 Based on Current Evidence']"
+        }
+      },
+"end": {
+"identity": 6,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Department of Plastic Surgery, Zibo Central Hospital, Zibo, China.', '2 Department of Plastic Surgery, Affiliated Hospital of Weifang Medical University, Weifang, China.', \"3 Department of Medicine, People's Hospital of Boxing, Binzhou, China.\", '4 Department of Plastic Surgery, Plastic Surgery Hospital, Peking Union Medical College, Chinese Academy of Medical Sciences, Beijing, China.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 4,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Understanding of COVID-19 Based on Current Evidence']"
+            }
+          },
+          "relationship": {
+"identity": 4,
+"start": 4,
+"end": 6,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 6,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Department of Plastic Surgery, Zibo Central Hospital, Zibo, China.', '2 Department of Plastic Surgery, Affiliated Hospital of Weifang Medical University, Weifang, China.', \"3 Department of Medicine, People's Hospital of Boxing, Binzhou, China.\", '4 Department of Plastic Surgery, Plastic Surgery Hospital, Peking Union Medical College, Chinese Academy of Medical Sciences, Beijing, China.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 4,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Understanding of COVID-19 Based on Current Evidence']"
+        }
+      },
+"end": {
+"identity": 7,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['J Med Virol']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 4,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Understanding of COVID-19 Based on Current Evidence']"
+            }
+          },
+          "relationship": {
+"identity": 5,
+"start": 4,
+"end": 7,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 7,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['J Med Virol']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 8,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['What Dentists Need to Know About COVID-19']"
+        }
+      },
+"end": {
+"identity": 9,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Maryam Baghizadeh Fini']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 8,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['What Dentists Need to Know About COVID-19']"
+            }
+          },
+          "relationship": {
+"identity": 6,
+"start": 8,
+"end": 9,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 9,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Maryam Baghizadeh Fini']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 8,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['What Dentists Need to Know About COVID-19']"
+        }
+      },
+"end": {
+"identity": 10,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[[\"1 DDS, School of Dentistry, Tehran University of Medical Sciences, Tehran, Iran; Master's student, Master of Health Promotion, Oklahoma State University, Stillwater, OK, USA. Electronic address: m.baghizadeh92@gmail.com.\"]]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 8,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['What Dentists Need to Know About COVID-19']"
+            }
+          },
+          "relationship": {
+"identity": 7,
+"start": 8,
+"end": 10,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 10,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[[\"1 DDS, School of Dentistry, Tehran University of Medical Sciences, Tehran, Iran; Master's student, Master of Health Promotion, Oklahoma State University, Stillwater, OK, USA. Electronic address: m.baghizadeh92@gmail.com.\"]]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 8,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['What Dentists Need to Know About COVID-19']"
+        }
+      },
+"end": {
+"identity": 11,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Oral Oncol']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 8,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['What Dentists Need to Know About COVID-19']"
+            }
+          },
+          "relationship": {
+"identity": 8,
+"start": 8,
+"end": 11,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 11,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Oral Oncol']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 12,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['[Strategies for Vaccine Development of COVID-19]']"
+        }
+      },
+"end": {
+"identity": 13,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Limin Yang', 'Deyu Tian', 'Wenjun Liu']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 12,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['[Strategies for Vaccine Development of COVID-19]']"
+            }
+          },
+          "relationship": {
+"identity": 9,
+"start": 12,
+"end": 13,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 13,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Limin Yang', 'Deyu Tian', 'Wenjun Liu']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 12,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['[Strategies for Vaccine Development of COVID-19]']"
+        }
+      },
+"end": {
+"identity": 14,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing 100101, China.', '2 Chinese Academy of Sciences University, Beijing 100049, China.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 12,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['[Strategies for Vaccine Development of COVID-19]']"
+            }
+          },
+          "relationship": {
+"identity": 10,
+"start": 12,
+"end": 14,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 14,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing 100101, China.', '2 Chinese Academy of Sciences University, Beijing 100049, China.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 12,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['[Strategies for Vaccine Development of COVID-19]']"
+        }
+      },
+"end": {
+"identity": 15,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Sheng Wu Gong Cheng Xue Bao']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 12,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['[Strategies for Vaccine Development of COVID-19]']"
+            }
+          },
+          "relationship": {
+"identity": 11,
+"start": 12,
+"end": 15,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 15,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Sheng Wu Gong Cheng Xue Bao']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 16,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['What We Know So Far: COVID-19 Current Clinical Knowledge and Research']"
+        }
+      },
+"end": {
+"identity": 17,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Mary A Lake']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 16,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['What We Know So Far: COVID-19 Current Clinical Knowledge and Research']"
+            }
+          },
+          "relationship": {
+"identity": 12,
+"start": 16,
+"end": 17,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 17,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Mary A Lake']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 16,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['What We Know So Far: COVID-19 Current Clinical Knowledge and Research']"
+        }
+      },
+"end": {
+"identity": 18,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 University of Cambridge, Cambridge, UK alexandra.lake@doctors.org.uk.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 16,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['What We Know So Far: COVID-19 Current Clinical Knowledge and Research']"
+            }
+          },
+          "relationship": {
+"identity": 13,
+"start": 16,
+"end": 18,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 18,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 University of Cambridge, Cambridge, UK alexandra.lake@doctors.org.uk.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 16,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['What We Know So Far: COVID-19 Current Clinical Knowledge and Research']"
+        }
+      },
+"end": {
+"identity": 19,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Clin Med (Lond)']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 16,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['What We Know So Far: COVID-19 Current Clinical Knowledge and Research']"
+            }
+          },
+          "relationship": {
+"identity": 14,
+"start": 16,
+"end": 19,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 19,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Clin Med (Lond)']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 20,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Epidemiology of COVID-19']"
+        }
+      },
+"end": {
+"identity": 21,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Cemal Bulut', 'Yasuyuki Kato']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Epidemiology of COVID-19']"
+            }
+          },
+          "relationship": {
+"identity": 15,
+"start": 20,
+"end": 21,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 21,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Cemal Bulut', 'Yasuyuki Kato']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 20,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Epidemiology of COVID-19']"
+        }
+      },
+"end": {
+"identity": 22,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Department of Infectious Diseases & Clinical Microbiology, Gülhane Faculty of Medicine, Health Science University, Ankara, Turkey', '2 Department of Infectious Diseases International University of Health and Welfare, Narita Hospital Narita, Japan']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Epidemiology of COVID-19']"
+            }
+          },
+          "relationship": {
+"identity": 16,
+"start": 20,
+"end": 22,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 22,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Department of Infectious Diseases & Clinical Microbiology, Gülhane Faculty of Medicine, Health Science University, Ankara, Turkey', '2 Department of Infectious Diseases International University of Health and Welfare, Narita Hospital Narita, Japan']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 20,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Epidemiology of COVID-19']"
+        }
+      },
+"end": {
+"identity": 23,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Turk J Med Sci']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 20,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Epidemiology of COVID-19']"
+            }
+          },
+          "relationship": {
+"identity": 17,
+"start": 20,
+"end": 23,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 23,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Turk J Med Sci']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 24,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Epidemiology and Clinical Characteristics of COVID-19']"
+        }
+      },
+"end": {
+"identity": 25,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Xiaoyi Huang', 'Fengxiang Wei', 'Liang Hu', 'Lijuan Wen', 'Ken Chen']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 24,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Epidemiology and Clinical Characteristics of COVID-19']"
+            }
+          },
+          "relationship": {
+"identity": 18,
+"start": 24,
+"end": 25,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 25,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Xiaoyi Huang', 'Fengxiang Wei', 'Liang Hu', 'Lijuan Wen', 'Ken Chen']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 24,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Epidemiology and Clinical Characteristics of COVID-19']"
+        }
+      },
+"end": {
+"identity": 26,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 School of Nursing, Guangdong Pharmaceutical University, 283 Jianghai Avenue, Haizhu District, Guangzhou, China.', '2 Shenzhen Longgang District Maternity & Child Healthcare Hospital of Shenzhen City, Shenzhen 518172, China.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 24,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Epidemiology and Clinical Characteristics of COVID-19']"
+            }
+          },
+          "relationship": {
+"identity": 19,
+"start": 24,
+"end": 26,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 26,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 School of Nursing, Guangdong Pharmaceutical University, 283 Jianghai Avenue, Haizhu District, Guangzhou, China.', '2 Shenzhen Longgang District Maternity & Child Healthcare Hospital of Shenzhen City, Shenzhen 518172, China.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 24,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Epidemiology and Clinical Characteristics of COVID-19']"
+        }
+      },
+"end": {
+"identity": 27,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Arch Iran Med']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 24,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Epidemiology and Clinical Characteristics of COVID-19']"
+            }
+          },
+          "relationship": {
+"identity": 20,
+"start": 24,
+"end": 27,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 27,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Arch Iran Med']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 28,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Epidemiology, Causes, Clinical Manifestation and Diagnosis, Prevention and Control of Coronavirus Disease (COVID-19) During the Early Outbreak Period: A Scoping Review']"
+        }
+      },
+"end": {
+"identity": 29,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Sasmita Poudel Adhikari', 'Sha Meng', 'Yu-Ju Wu', 'Yu-Ping Mao', 'Rui-Xue Ye', 'Qing-Zhi Wang', 'Chang Sun', 'Sean Sylvia', 'Scott Rozelle', 'Hein Raat', 'Huan Zhou']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 28,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Epidemiology, Causes, Clinical Manifestation and Diagnosis, Prevention and Control of Coronavirus Disease (COVID-19) During the Early Outbreak Period: A Scoping Review']"
+            }
+          },
+          "relationship": {
+"identity": 21,
+"start": 28,
+"end": 29,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 29,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Sasmita Poudel Adhikari', 'Sha Meng', 'Yu-Ju Wu', 'Yu-Ping Mao', 'Rui-Xue Ye', 'Qing-Zhi Wang', 'Chang Sun', 'Sean Sylvia', 'Scott Rozelle', 'Hein Raat', 'Huan Zhou']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 28,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Epidemiology, Causes, Clinical Manifestation and Diagnosis, Prevention and Control of Coronavirus Disease (COVID-19) During the Early Outbreak Period: A Scoping Review']"
+        }
+      },
+"end": {
+"identity": 30,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 West China School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China.', '2 Department of Communication Studies, California State University, Long Beach, CA, 90802, USA.', '3 Health Policy and Management, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.', '4 Freeman Spogli Institute for International Studies, Stanford University, Stanford, CA, USA.', '5 Department of Public Health, Erasmus MC-University Medical Center Rotterdam, 3000, CA, Rotterdam, The Netherlands.', '6 West China School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China. zhouhuan@scu.edu.cn.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 28,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Epidemiology, Causes, Clinical Manifestation and Diagnosis, Prevention and Control of Coronavirus Disease (COVID-19) During the Early Outbreak Period: A Scoping Review']"
+            }
+          },
+          "relationship": {
+"identity": 22,
+"start": 28,
+"end": 30,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 30,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 West China School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China.', '2 Department of Communication Studies, California State University, Long Beach, CA, 90802, USA.', '3 Health Policy and Management, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.', '4 Freeman Spogli Institute for International Studies, Stanford University, Stanford, CA, USA.', '5 Department of Public Health, Erasmus MC-University Medical Center Rotterdam, 3000, CA, Rotterdam, The Netherlands.', '6 West China School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China. zhouhuan@scu.edu.cn.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 28,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Epidemiology, Causes, Clinical Manifestation and Diagnosis, Prevention and Control of Coronavirus Disease (COVID-19) During the Early Outbreak Period: A Scoping Review']"
+        }
+      },
+"end": {
+"identity": 31,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Infect Dis Poverty']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 28,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Epidemiology, Causes, Clinical Manifestation and Diagnosis, Prevention and Control of Coronavirus Disease (COVID-19) During the Early Outbreak Period: A Scoping Review']"
+            }
+          },
+          "relationship": {
+"identity": 23,
+"start": 28,
+"end": 31,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 31,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Infect Dis Poverty']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 32,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['A Review of Coronavirus Disease-2019 (COVID-19)']"
+        }
+      },
+"end": {
+"identity": 33,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Tanu Singhal']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 32,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['A Review of Coronavirus Disease-2019 (COVID-19)']"
+            }
+          },
+          "relationship": {
+"identity": 24,
+"start": 32,
+"end": 33,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 33,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Tanu Singhal']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 32,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['A Review of Coronavirus Disease-2019 (COVID-19)']"
+        }
+      },
+"end": {
+"identity": 34,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Department of Pediatrics and Infectious Disease, Kokilaben Dhirubhai Ambani Hospital and Medical Research Institute, Mumbai, India. tanusinghal@yahoo.com.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 32,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['A Review of Coronavirus Disease-2019 (COVID-19)']"
+            }
+          },
+          "relationship": {
+"identity": 25,
+"start": 32,
+"end": 34,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 34,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Department of Pediatrics and Infectious Disease, Kokilaben Dhirubhai Ambani Hospital and Medical Research Institute, Mumbai, India. tanusinghal@yahoo.com.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 32,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['A Review of Coronavirus Disease-2019 (COVID-19)']"
+        }
+      },
+"end": {
+"identity": 35,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Indian J Pediatr']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 32,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['A Review of Coronavirus Disease-2019 (COVID-19)']"
+            }
+          },
+          "relationship": {
+"identity": 26,
+"start": 32,
+"end": 35,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 35,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Indian J Pediatr']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 36,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Autopsy in Suspected COVID-19 Cases']"
+        }
+      },
+"end": {
+"identity": 37,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Brian Hanley', 'Sebastian B Lucas', 'Esther Youd', 'Benjamin Swift', 'Michael Osborn']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 36,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Autopsy in Suspected COVID-19 Cases']"
+            }
+          },
+          "relationship": {
+"identity": 27,
+"start": 36,
+"end": 37,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 37,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Brian Hanley', 'Sebastian B Lucas', 'Esther Youd', 'Benjamin Swift', 'Michael Osborn']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 36,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Autopsy in Suspected COVID-19 Cases']"
+        }
+      },
+"end": {
+"identity": 38,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Department of Cellular Pathology, Imperial College London NHS Trust, London, UK brian.hanley1@nhs.net.', '2 Department of Histopathology, GKT, Medical school in London, London, UK.', '3 Department of Histopathology, Cwm Taf Morgannwg Health Board, Llantrisant, UK.', '4 Forensic Pathology Services, Oxon, UK.', '5 Department of Cellular Pathology, Imperial College London NHS Trust, London, UK.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 36,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Autopsy in Suspected COVID-19 Cases']"
+            }
+          },
+          "relationship": {
+"identity": 28,
+"start": 36,
+"end": 38,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 38,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Department of Cellular Pathology, Imperial College London NHS Trust, London, UK brian.hanley1@nhs.net.', '2 Department of Histopathology, GKT, Medical school in London, London, UK.', '3 Department of Histopathology, Cwm Taf Morgannwg Health Board, Llantrisant, UK.', '4 Forensic Pathology Services, Oxon, UK.', '5 Department of Cellular Pathology, Imperial College London NHS Trust, London, UK.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 36,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Autopsy in Suspected COVID-19 Cases']"
+        }
+      },
+"end": {
+"identity": 39,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['J Clin Pathol']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 36,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Autopsy in Suspected COVID-19 Cases']"
+            }
+          },
+          "relationship": {
+"identity": 29,
+"start": 36,
+"end": 39,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 39,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['J Clin Pathol']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 40,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['COVID-19, a Worldwide Public Health Emergency']"
+        }
+      },
+"end": {
+"identity": 41,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['M Palacios Cruz', 'E Santos', 'M A Velázquez Cervantes', 'M León Juárez']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 40,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['COVID-19, a Worldwide Public Health Emergency']"
+            }
+          },
+          "relationship": {
+"identity": 30,
+"start": 40,
+"end": 41,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 41,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['M Palacios Cruz', 'E Santos', 'M A Velázquez Cervantes', 'M León Juárez']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 40,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['COVID-19, a Worldwide Public Health Emergency']"
+        }
+      },
+"end": {
+"identity": 42,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Facultad de Medicina, Universidad Veracruzana, Veracruz, México.', '2 Department of Neurosurgery, University of Heidelberg, Heidelberg, Alemania.', '3 Departamento de Inmunobioquímica, Laboratorio de Virología Perinatal, Instituto Nacional de Perinatología, Ciudad de México, México.', '4 Departamento de Inmunobioquímica, Laboratorio de Virología Perinatal, Instituto Nacional de Perinatología, Ciudad de México, México. Electronic address: moisesleoninper@gmail.com.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 40,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['COVID-19, a Worldwide Public Health Emergency']"
+            }
+          },
+          "relationship": {
+"identity": 31,
+"start": 40,
+"end": 42,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 42,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Facultad de Medicina, Universidad Veracruzana, Veracruz, México.', '2 Department of Neurosurgery, University of Heidelberg, Heidelberg, Alemania.', '3 Departamento de Inmunobioquímica, Laboratorio de Virología Perinatal, Instituto Nacional de Perinatología, Ciudad de México, México.', '4 Departamento de Inmunobioquímica, Laboratorio de Virología Perinatal, Instituto Nacional de Perinatología, Ciudad de México, México. Electronic address: moisesleoninper@gmail.com.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 40,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['COVID-19, a Worldwide Public Health Emergency']"
+        }
+      },
+"end": {
+"identity": 43,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Rev Clin Esp']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 40,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['COVID-19, a Worldwide Public Health Emergency']"
+            }
+          },
+          "relationship": {
+"identity": 32,
+"start": 40,
+"end": 43,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 43,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Rev Clin Esp']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 44,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['A Trial of Lopinavir-Ritonavir in Adults Hospitalized With Severe Covid-19']"
+        }
+      },
+"end": {
+"identity": 45,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Bin Cao', 'Yeming Wang', 'Danning Wen', 'Wen Liu', 'Jingli Wang', 'Guohui Fan', 'Lianguo Ruan', 'Bin Song', 'Yanping Cai', 'Ming Wei', 'Xingwang Li', 'Jiaan Xia', 'Nanshan Chen', 'Jie Xiang', 'Ting Yu', 'Tao Bai', 'Xuelei Xie', 'Li Zhang', 'Caihong Li', 'Ye Yuan', 'Hua Chen', 'Huadong Li', 'Hanping Huang', 'Shengjing Tu', 'Fengyun Gong', 'Ying Liu', 'Yuan Wei', 'Chongya Dong', 'Fei Zhou', 'Xiaoying Gu', 'Jiuyang Xu', 'Zhibo Liu', 'Yi Zhang', 'Hui Li', 'Lianhan Shang', 'Ke Wang', 'Kunxia Li', 'Xia Zhou', 'Xuan Dong', 'Zhaohui Qu', 'Sixia Lu', 'Xujuan Hu', 'Shunan Ruan', 'Shanshan Luo', 'Jing Wu', 'Lu Peng', 'Fang Cheng', 'Lihong Pan', 'Jun Zou', 'Chunmin Jia', 'Juan Wang', 'Xia Liu', 'Shuzhen Wang', 'Xudong Wu', 'Qin Ge', 'Jing He', 'Haiyan Zhan', 'Fang Qiu', 'Li Guo', 'Chaolin Huang', 'Thomas Jaki', 'Frederick G Hayden', 'Peter W Horby', 'Dingyu Zhang', 'Chen Wang']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 44,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['A Trial of Lopinavir-Ritonavir in Adults Hospitalized With Severe Covid-19']"
+            }
+          },
+          "relationship": {
+"identity": 33,
+"start": 44,
+"end": 45,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 45,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Bin Cao', 'Yeming Wang', 'Danning Wen', 'Wen Liu', 'Jingli Wang', 'Guohui Fan', 'Lianguo Ruan', 'Bin Song', 'Yanping Cai', 'Ming Wei', 'Xingwang Li', 'Jiaan Xia', 'Nanshan Chen', 'Jie Xiang', 'Ting Yu', 'Tao Bai', 'Xuelei Xie', 'Li Zhang', 'Caihong Li', 'Ye Yuan', 'Hua Chen', 'Huadong Li', 'Hanping Huang', 'Shengjing Tu', 'Fengyun Gong', 'Ying Liu', 'Yuan Wei', 'Chongya Dong', 'Fei Zhou', 'Xiaoying Gu', 'Jiuyang Xu', 'Zhibo Liu', 'Yi Zhang', 'Hui Li', 'Lianhan Shang', 'Ke Wang', 'Kunxia Li', 'Xia Zhou', 'Xuan Dong', 'Zhaohui Qu', 'Sixia Lu', 'Xujuan Hu', 'Shunan Ruan', 'Shanshan Luo', 'Jing Wu', 'Lu Peng', 'Fang Cheng', 'Lihong Pan', 'Jun Zou', 'Chunmin Jia', 'Juan Wang', 'Xia Liu', 'Shuzhen Wang', 'Xudong Wu', 'Qin Ge', 'Jing He', 'Haiyan Zhan', 'Fang Qiu', 'Li Guo', 'Chaolin Huang', 'Thomas Jaki', 'Frederick G Hayden', 'Peter W Horby', 'Dingyu Zhang', 'Chen Wang']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 44,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['A Trial of Lopinavir-Ritonavir in Adults Hospitalized With Severe Covid-19']"
+        }
+      },
+"end": {
+"identity": 46,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 From the Department of Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, National Clinical Research Center for Respiratory Diseases (B.C., Yeming Wang, G.F., F.Z., X.G., Z.L., Y.Z., Hui Li, L.S., C.W.), and the Institute of Clinical Medical Sciences (G.F., X.G.), China-Japan Friendship Hospital, the Institute of Respiratory Medicine, Chinese Academy of Medical Sciences (B.C., Yeming Wang, F.Z., Z.L., Y.Z., Hui Li, C.W.), the Clinical and Research Center of Infectious Diseases, Beijing Ditan Hospital, Capital Medical University (Xingwang Li), Peking University Clinical Research Institute, Peking University First Hospital (C.D.), Tsinghua University School of Medicine (Jiuyang Xu), Beijing University of Chinese Medicine (L.S.), NHC Key Laboratory of Systems Biology of Pathogens and Christophe Merieux Laboratory, Institute of Pathogen Biology, Chinese Academy of Medical Sciences (L.G.), and Peking Union Medical College (L.G., C.W.), Beijing, and Jin Yin-tan Hospital, Wuhan (D.W., W.L., Jingli Wang, L.R., B.S., Y.C., M.W., Jiaan Xia, N.C., Jie Xiang, T.Y., T.B., X.X., L.Z., C.L., Y.Y., H.C., Huadong Li, H.H., S.T., F.G., Y.L., Yuan Wei, K.W., K.L., X.Z., X.D., Z.Q., Sixia Lu, X.H., S.R., Shanshan Luo, Jing Wu, Lu Peng, F.C., Lihong Pan, J.Z., C.J., Juan Wang, Xia Liu, S.W., X.W., Q.G., J.H., H.Z., F.Q., C.H., D.Z.) - all in China; Lancaster University, Lancaster (T.J.), and the University of Oxford, Oxford (P.W.H.) - both in the United Kingdom; and the University of Virginia School of Medicine, Charlottesville (F.G.H.).']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 44,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['A Trial of Lopinavir-Ritonavir in Adults Hospitalized With Severe Covid-19']"
+            }
+          },
+          "relationship": {
+"identity": 34,
+"start": 44,
+"end": 46,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 46,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 From the Department of Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, National Clinical Research Center for Respiratory Diseases (B.C., Yeming Wang, G.F., F.Z., X.G., Z.L., Y.Z., Hui Li, L.S., C.W.), and the Institute of Clinical Medical Sciences (G.F., X.G.), China-Japan Friendship Hospital, the Institute of Respiratory Medicine, Chinese Academy of Medical Sciences (B.C., Yeming Wang, F.Z., Z.L., Y.Z., Hui Li, C.W.), the Clinical and Research Center of Infectious Diseases, Beijing Ditan Hospital, Capital Medical University (Xingwang Li), Peking University Clinical Research Institute, Peking University First Hospital (C.D.), Tsinghua University School of Medicine (Jiuyang Xu), Beijing University of Chinese Medicine (L.S.), NHC Key Laboratory of Systems Biology of Pathogens and Christophe Merieux Laboratory, Institute of Pathogen Biology, Chinese Academy of Medical Sciences (L.G.), and Peking Union Medical College (L.G., C.W.), Beijing, and Jin Yin-tan Hospital, Wuhan (D.W., W.L., Jingli Wang, L.R., B.S., Y.C., M.W., Jiaan Xia, N.C., Jie Xiang, T.Y., T.B., X.X., L.Z., C.L., Y.Y., H.C., Huadong Li, H.H., S.T., F.G., Y.L., Yuan Wei, K.W., K.L., X.Z., X.D., Z.Q., Sixia Lu, X.H., S.R., Shanshan Luo, Jing Wu, Lu Peng, F.C., Lihong Pan, J.Z., C.J., Juan Wang, Xia Liu, S.W., X.W., Q.G., J.H., H.Z., F.Q., C.H., D.Z.) - all in China; Lancaster University, Lancaster (T.J.), and the University of Oxford, Oxford (P.W.H.) - both in the United Kingdom; and the University of Virginia School of Medicine, Charlottesville (F.G.H.).']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 44,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['A Trial of Lopinavir-Ritonavir in Adults Hospitalized With Severe Covid-19']"
+        }
+      },
+"end": {
+"identity": 47,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['N Engl J Med']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 44,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['A Trial of Lopinavir-Ritonavir in Adults Hospitalized With Severe Covid-19']"
+            }
+          },
+          "relationship": {
+"identity": 35,
+"start": 44,
+"end": 47,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 47,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['N Engl J Med']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 48,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['The Epidemiology and Pathogenesis of Coronavirus Disease (COVID-19) Outbreak']"
+        }
+      },
+"end": {
+"identity": 49,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Hussin A Rothan', 'Siddappa N Byrareddy']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 48,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['The Epidemiology and Pathogenesis of Coronavirus Disease (COVID-19) Outbreak']"
+            }
+          },
+          "relationship": {
+"identity": 36,
+"start": 48,
+"end": 49,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 49,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Hussin A Rothan', 'Siddappa N Byrareddy']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 48,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['The Epidemiology and Pathogenesis of Coronavirus Disease (COVID-19) Outbreak']"
+        }
+      },
+"end": {
+"identity": 50,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Department of Biology, College of Arts and Sciences, Georgia State University, Atlanta, GA, USA. Electronic address: hrothan@gsu.edu.', '2 Department of Pharmacology and Experimental Neuroscience, University of Nebraska Medical Centre, Omaha, NE, USA; Department of Genetics, Cell Biology and Anatomy, Omaha, NE, USA; Department of Biochemistry and Molecular Biology, University of Nebraska Medical Centre, Omaha, NE, USA. Electronic address: sid.byrareddy@unmc.edu.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 48,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['The Epidemiology and Pathogenesis of Coronavirus Disease (COVID-19) Outbreak']"
+            }
+          },
+          "relationship": {
+"identity": 37,
+"start": 48,
+"end": 50,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 50,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Department of Biology, College of Arts and Sciences, Georgia State University, Atlanta, GA, USA. Electronic address: hrothan@gsu.edu.', '2 Department of Pharmacology and Experimental Neuroscience, University of Nebraska Medical Centre, Omaha, NE, USA; Department of Genetics, Cell Biology and Anatomy, Omaha, NE, USA; Department of Biochemistry and Molecular Biology, University of Nebraska Medical Centre, Omaha, NE, USA. Electronic address: sid.byrareddy@unmc.edu.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 48,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['The Epidemiology and Pathogenesis of Coronavirus Disease (COVID-19) Outbreak']"
+        }
+      },
+"end": {
+"identity": 51,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['J Autoimmun']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 48,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['The Epidemiology and Pathogenesis of Coronavirus Disease (COVID-19) Outbreak']"
+            }
+          },
+          "relationship": {
+"identity": 38,
+"start": 48,
+"end": 51,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 51,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['J Autoimmun']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 52,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['World Health Organization Declares Global Emergency: A Review of the 2019 Novel Coronavirus (COVID-19)']"
+        }
+      },
+"end": {
+"identity": 53,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Catrin Sohrabi', 'Zaid Alsafi', \"Niamh O'Neill\", 'Mehdi Khan', 'Ahmed Kerwan', 'Ahmed Al-Jabir', 'Christos Iosifidis', 'Riaz Agha']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 52,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['World Health Organization Declares Global Emergency: A Review of the 2019 Novel Coronavirus (COVID-19)']"
+            }
+          },
+          "relationship": {
+"identity": 39,
+"start": 52,
+"end": 53,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 53,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Catrin Sohrabi', 'Zaid Alsafi', \"Niamh O'Neill\", 'Mehdi Khan', 'Ahmed Kerwan', 'Ahmed Al-Jabir', 'Christos Iosifidis', 'Riaz Agha']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 52,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['World Health Organization Declares Global Emergency: A Review of the 2019 Novel Coronavirus (COVID-19)']"
+        }
+      },
+"end": {
+"identity": 54,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Barts and The London School of Medicine and Dentistry, Queen Mary University of London, United Kingdom.', '2 UCL Medical School, University College London, United Kingdom.', '3 Barts and The London School of Medicine and Dentistry, Queen Mary University of London, United Kingdom. Electronic address: niamh@ijspg.com.', \"4 GKT School of Medical Education, King's College London, United Kingdom.\", '5 Barts Health NHS Trust, London, United Kingdom.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 52,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['World Health Organization Declares Global Emergency: A Review of the 2019 Novel Coronavirus (COVID-19)']"
+            }
+          },
+          "relationship": {
+"identity": 40,
+"start": 52,
+"end": 54,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 54,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Barts and The London School of Medicine and Dentistry, Queen Mary University of London, United Kingdom.', '2 UCL Medical School, University College London, United Kingdom.', '3 Barts and The London School of Medicine and Dentistry, Queen Mary University of London, United Kingdom. Electronic address: niamh@ijspg.com.', \"4 GKT School of Medical Education, King's College London, United Kingdom.\", '5 Barts Health NHS Trust, London, United Kingdom.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 52,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['World Health Organization Declares Global Emergency: A Review of the 2019 Novel Coronavirus (COVID-19)']"
+        }
+      },
+"end": {
+"identity": 55,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Int J Surg']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 52,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['World Health Organization Declares Global Emergency: A Review of the 2019 Novel Coronavirus (COVID-19)']"
+            }
+          },
+          "relationship": {
+"identity": 41,
+"start": 52,
+"end": 55,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 55,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Int J Surg']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 56,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Novel Coronavirus Disease (COVID-19) in Newborns and Infants: What We Know So Far']"
+        }
+      },
+"end": {
+"identity": 57,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Domenico Umberto De Rose', 'Fiammetta Piersigilli', 'Maria Paola Ronchetti', 'Alessandra Santisi', 'Iliana Bersani', 'Andrea Dotta', 'Olivier Danhaive', 'Cinzia Auriti', 'Study Group of Neonatal Infectious Diseases of The Italian Society of Neonatology (SIN)']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 56,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Novel Coronavirus Disease (COVID-19) in Newborns and Infants: What We Know So Far']"
+            }
+          },
+          "relationship": {
+"identity": 42,
+"start": 56,
+"end": 57,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 57,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Domenico Umberto De Rose', 'Fiammetta Piersigilli', 'Maria Paola Ronchetti', 'Alessandra Santisi', 'Iliana Bersani', 'Andrea Dotta', 'Olivier Danhaive', 'Cinzia Auriti', 'Study Group of Neonatal Infectious Diseases of The Italian Society of Neonatology (SIN)']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 56,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Novel Coronavirus Disease (COVID-19) in Newborns and Infants: What We Know So Far']"
+        }
+      },
+"end": {
+"identity": 58,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[[\"1 Neonatal Intensive Care Unit, Department of Neonatology, Bambino Gesù Children's Hospital, IRCCS, Piazza S. Onofrio 4, 00165, Rome, Italy.\", '2 Division of Neonatology, St-Luc University Hospital, Catholic University of Louvain, 1200, Brussels, Belgium.', \"3 Neonatal Intensive Care Unit, Department of Neonatology, Bambino Gesù Children's Hospital, IRCCS, Piazza S. Onofrio 4, 00165, Rome, Italy. cinzia.auriti@opbg.net.\"]]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 56,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Novel Coronavirus Disease (COVID-19) in Newborns and Infants: What We Know So Far']"
+            }
+          },
+          "relationship": {
+"identity": 43,
+"start": 56,
+"end": 58,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 58,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[[\"1 Neonatal Intensive Care Unit, Department of Neonatology, Bambino Gesù Children's Hospital, IRCCS, Piazza S. Onofrio 4, 00165, Rome, Italy.\", '2 Division of Neonatology, St-Luc University Hospital, Catholic University of Louvain, 1200, Brussels, Belgium.', \"3 Neonatal Intensive Care Unit, Department of Neonatology, Bambino Gesù Children's Hospital, IRCCS, Piazza S. Onofrio 4, 00165, Rome, Italy. cinzia.auriti@opbg.net.\"]]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 56,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Novel Coronavirus Disease (COVID-19) in Newborns and Infants: What We Know So Far']"
+        }
+      },
+"end": {
+"identity": 59,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Ital J Pediatr']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 56,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Novel Coronavirus Disease (COVID-19) in Newborns and Infants: What We Know So Far']"
+            }
+          },
+          "relationship": {
+"identity": 44,
+"start": 56,
+"end": 59,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 59,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Ital J Pediatr']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 60,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['The Outbreak of COVID-19: An Overview']"
+        }
+      },
+"end": {
+"identity": 61,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Yi-Chi Wu', 'Ching-Sung Chen', 'Yu-Jiun Chan']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 60,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['The Outbreak of COVID-19: An Overview']"
+            }
+          },
+          "relationship": {
+"identity": 45,
+"start": 60,
+"end": 61,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 61,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Yi-Chi Wu', 'Ching-Sung Chen', 'Yu-Jiun Chan']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 60,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['The Outbreak of COVID-19: An Overview']"
+        }
+      },
+"end": {
+"identity": 62,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Division of Microbiology, Department of Pathology and Laboratory Medicine, Taipei Veterans General Hospital, Taipei, Taiwan, ROC.', '2 Division of Infectious Diseases, Department of Medicine, Taipei Veterans General Hospital, Taipei, Taiwan, ROC.', '3 Institute of Public Health, School of Medicine, National Yang-Ming University, Taipei, Taiwan, ROC.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 60,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['The Outbreak of COVID-19: An Overview']"
+            }
+          },
+          "relationship": {
+"identity": 46,
+"start": 60,
+"end": 62,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 62,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Division of Microbiology, Department of Pathology and Laboratory Medicine, Taipei Veterans General Hospital, Taipei, Taiwan, ROC.', '2 Division of Infectious Diseases, Department of Medicine, Taipei Veterans General Hospital, Taipei, Taiwan, ROC.', '3 Institute of Public Health, School of Medicine, National Yang-Ming University, Taipei, Taiwan, ROC.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 60,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['The Outbreak of COVID-19: An Overview']"
+        }
+      },
+"end": {
+"identity": 63,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['J Chin Med Assoc']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 60,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['The Outbreak of COVID-19: An Overview']"
+            }
+          },
+          "relationship": {
+"identity": 47,
+"start": 60,
+"end": 63,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 63,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['J Chin Med Assoc']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 64,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['An Alternative Approach to Minimize the Risk of Coronavirus (Covid-19) and Similar Infections']"
+        }
+      },
+"end": {
+"identity": 65,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['A Ahmad', 'M U Rehman', 'K M Alkharfy']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 64,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['An Alternative Approach to Minimize the Risk of Coronavirus (Covid-19) and Similar Infections']"
+            }
+          },
+          "relationship": {
+"identity": 48,
+"start": 64,
+"end": 65,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 65,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['A Ahmad', 'M U Rehman', 'K M Alkharfy']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 64,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['An Alternative Approach to Minimize the Risk of Coronavirus (Covid-19) and Similar Infections']"
+        }
+      },
+"end": {
+"identity": 66,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Department of Clinical Pharmacy, College of Pharmacy, King Saud University, Riyadh, Saudi Arabia. alkharfy@ksu.edu.sa.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 64,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['An Alternative Approach to Minimize the Risk of Coronavirus (Covid-19) and Similar Infections']"
+            }
+          },
+          "relationship": {
+"identity": 49,
+"start": 64,
+"end": 66,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 66,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Department of Clinical Pharmacy, College of Pharmacy, King Saud University, Riyadh, Saudi Arabia. alkharfy@ksu.edu.sa.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 64,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['An Alternative Approach to Minimize the Risk of Coronavirus (Covid-19) and Similar Infections']"
+        }
+      },
+"end": {
+"identity": 67,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Eur Rev Med Pharmacol Sci']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 64,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['An Alternative Approach to Minimize the Risk of Coronavirus (Covid-19) and Similar Infections']"
+            }
+          },
+          "relationship": {
+"identity": 50,
+"start": 64,
+"end": 67,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 67,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Eur Rev Med Pharmacol Sci']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 68,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['COVID-19: The Outbreak Caused by a New Coronavirus']"
+        }
+      },
+"end": {
+"identity": 69,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Erika Sifuentes-Rodríguez', 'Deborah Palacios-Reyes']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 68,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['COVID-19: The Outbreak Caused by a New Coronavirus']"
+            }
+          },
+          "relationship": {
+"identity": 51,
+"start": 68,
+"end": 69,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 69,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Erika Sifuentes-Rodríguez', 'Deborah Palacios-Reyes']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 68,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['COVID-19: The Outbreak Caused by a New Coronavirus']"
+        }
+      },
+"end": {
+"identity": 70,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Servicio de Pediatría, Hospital Ángeles Lomas, Instituto Nacional de Pediatría. Mexico City, Mexico.', '2 Servicio de Parasitología y Micología, Instituto Nacional de Pediatría. Mexico City, Mexico.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 68,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['COVID-19: The Outbreak Caused by a New Coronavirus']"
+            }
+          },
+          "relationship": {
+"identity": 52,
+"start": 68,
+"end": 70,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 70,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Servicio de Pediatría, Hospital Ángeles Lomas, Instituto Nacional de Pediatría. Mexico City, Mexico.', '2 Servicio de Parasitología y Micología, Instituto Nacional de Pediatría. Mexico City, Mexico.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 68,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['COVID-19: The Outbreak Caused by a New Coronavirus']"
+        }
+      },
+"end": {
+"identity": 71,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Bol Med Hosp Infant Mex']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 68,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['COVID-19: The Outbreak Caused by a New Coronavirus']"
+            }
+          },
+          "relationship": {
+"identity": 53,
+"start": 68,
+"end": 71,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 71,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Bol Med Hosp Infant Mex']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 72,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['COVID-19 (Novel Coronavirus 2019) - Recent Trends']"
+        }
+      },
+"end": {
+"identity": 73,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['S Kannan', 'P Shaik Syed Ali', 'A Sheeza', 'K Hemalatha']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 72,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['COVID-19 (Novel Coronavirus 2019) - Recent Trends']"
+            }
+          },
+          "relationship": {
+"identity": 54,
+"start": 72,
+"end": 73,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 73,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['S Kannan', 'P Shaik Syed Ali', 'A Sheeza', 'K Hemalatha']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 72,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['COVID-19 (Novel Coronavirus 2019) - Recent Trends']"
+        }
+      },
+"end": {
+"identity": 74,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[[\"1 School of Medicine, The Maldives National University, Male', Maldives. Kannan.subbaram@mnu.edu.mv.\"]]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 72,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['COVID-19 (Novel Coronavirus 2019) - Recent Trends']"
+            }
+          },
+          "relationship": {
+"identity": 55,
+"start": 72,
+"end": 74,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 74,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[[\"1 School of Medicine, The Maldives National University, Male', Maldives. Kannan.subbaram@mnu.edu.mv.\"]]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 72,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['COVID-19 (Novel Coronavirus 2019) - Recent Trends']"
+        }
+      },
+"end": {
+"identity": 75,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Eur Rev Med Pharmacol Sci']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 72,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['COVID-19 (Novel Coronavirus 2019) - Recent Trends']"
+            }
+          },
+          "relationship": {
+"identity": 56,
+"start": 72,
+"end": 75,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 75,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Eur Rev Med Pharmacol Sci']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 76,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['COVID-19 and What Pediatric Rheumatologists Should Know: A Review From a Highly Affected Country']"
+        }
+      },
+"end": {
+"identity": 77,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Francesco Licciardi', 'Teresa Giani', 'Letizia Baldini', 'Ennio Giulio Favalli', 'Roberto Caporali', 'Rolando Cimaz']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 76,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['COVID-19 and What Pediatric Rheumatologists Should Know: A Review From a Highly Affected Country']"
+            }
+          },
+          "relationship": {
+"identity": 57,
+"start": 76,
+"end": 77,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 77,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Francesco Licciardi', 'Teresa Giani', 'Letizia Baldini', 'Ennio Giulio Favalli', 'Roberto Caporali', 'Rolando Cimaz']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 76,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['COVID-19 and What Pediatric Rheumatologists Should Know: A Review From a Highly Affected Country']"
+        }
+      },
+"end": {
+"identity": 78,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Division of Pediatric Immunology and Rheumatology, Department of Public Health and Pediatrics, Regina Margherita Children Hospital, University of Turin, Turin, Italy.', '2 AOU Meyer, V.le Pieraccini 24, 50139, Florence, Italy. teresa.giani@gmail.com.', '3 Department of Medical Biotechnology, University of Siena, Siena, Italy. teresa.giani@gmail.com.', '4 Division of Clinical Rheumatology, ASST Gaetano Pini-CTO Institute, Milan, Italy.', '5 Department of Clinical Sciences and Community Health, Research Center for Adult and Pediatric Rheumatic Diseases, Università degli Studi di Milano, Milan, Italy.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 76,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['COVID-19 and What Pediatric Rheumatologists Should Know: A Review From a Highly Affected Country']"
+            }
+          },
+          "relationship": {
+"identity": 58,
+"start": 76,
+"end": 78,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 78,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Division of Pediatric Immunology and Rheumatology, Department of Public Health and Pediatrics, Regina Margherita Children Hospital, University of Turin, Turin, Italy.', '2 AOU Meyer, V.le Pieraccini 24, 50139, Florence, Italy. teresa.giani@gmail.com.', '3 Department of Medical Biotechnology, University of Siena, Siena, Italy. teresa.giani@gmail.com.', '4 Division of Clinical Rheumatology, ASST Gaetano Pini-CTO Institute, Milan, Italy.', '5 Department of Clinical Sciences and Community Health, Research Center for Adult and Pediatric Rheumatic Diseases, Università degli Studi di Milano, Milan, Italy.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 76,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['COVID-19 and What Pediatric Rheumatologists Should Know: A Review From a Highly Affected Country']"
+        }
+      },
+"end": {
+"identity": 79,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Pediatr Rheumatol Online J']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 76,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['COVID-19 and What Pediatric Rheumatologists Should Know: A Review From a Highly Affected Country']"
+            }
+          },
+          "relationship": {
+"identity": 59,
+"start": 76,
+"end": 79,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 79,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Pediatr Rheumatol Online J']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 80,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Coronavirus Disease 2019 (COVID-19): A Literature Review']"
+        }
+      },
+"end": {
+"identity": 81,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Harapan Harapan', 'Naoya Itoh', 'Amanda Yufika', 'Wira Winardi', 'Synat Keam', 'Haypheng Te', 'Dewi Megawati', 'Zinatul Hayati', 'Abram L Wagner', 'Mudatsir Mudatsir']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 80,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Coronavirus Disease 2019 (COVID-19): A Literature Review']"
+            }
+          },
+          "relationship": {
+"identity": 60,
+"start": 80,
+"end": 81,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 81,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Harapan Harapan', 'Naoya Itoh', 'Amanda Yufika', 'Wira Winardi', 'Synat Keam', 'Haypheng Te', 'Dewi Megawati', 'Zinatul Hayati', 'Abram L Wagner', 'Mudatsir Mudatsir']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 80,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Coronavirus Disease 2019 (COVID-19): A Literature Review']"
+        }
+      },
+"end": {
+"identity": 82,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Medical Research Unit, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia; Tropical Disease Centre, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia; Department of Microbiology, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia. Electronic address: harapan@unsyiah.ac.id.', '2 Division of Infectious Diseases, AichiCancer Center Hospital, Chikusa-ku Nagoya, Japan. Electronic address: itohnaoya0925@ybb.ne.jp.', '3 Department of Family Medicine, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia. Electronic address: amandayufika@gmail.com.', '4 Department of Pulmonology and Respiratory Medicine, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia. Electronic address: wira.winardi@unsyiah.ac.id.', '5 School of Medicine, The University of Western Australia, Perth, Australia. Electronic address: synat.keam@research.uwa.edu.au.', '6 Siem Reap Provincial Health Department, Ministry of Health, Siem Reap, Cambodia. Electronic address: hayphengte@gmail.com.', '7 Department of Microbiology and Parasitology, Faculty of Medicine and Health Sciences, Warmadewa University, Denpasar, Indonesia; Department of Medical Microbiology and Immunology, University of California, Davis, CA, USA. Electronic address: amegawati@ucdavis.edu.', '8 Medical Research Unit, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia; Tropical Disease Centre, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia; Department of Microbiology, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia; Department of Clinical Microbiology, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia. Electronic address: hayatikarmil@unsyiah.ac.id.', '9 Department of Epidemiology, University of Michigan, Ann Arbor, Michigan, MI 48109, USA. Electronic address: awag@umich.edu.', '10 Medical Research Unit, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia; Tropical Disease Centre, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia; Department of Microbiology, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia. Electronic address: mudatsir@unsyiah.ac.id.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 80,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Coronavirus Disease 2019 (COVID-19): A Literature Review']"
+            }
+          },
+          "relationship": {
+"identity": 61,
+"start": 80,
+"end": 82,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 82,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Medical Research Unit, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia; Tropical Disease Centre, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia; Department of Microbiology, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia. Electronic address: harapan@unsyiah.ac.id.', '2 Division of Infectious Diseases, AichiCancer Center Hospital, Chikusa-ku Nagoya, Japan. Electronic address: itohnaoya0925@ybb.ne.jp.', '3 Department of Family Medicine, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia. Electronic address: amandayufika@gmail.com.', '4 Department of Pulmonology and Respiratory Medicine, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia. Electronic address: wira.winardi@unsyiah.ac.id.', '5 School of Medicine, The University of Western Australia, Perth, Australia. Electronic address: synat.keam@research.uwa.edu.au.', '6 Siem Reap Provincial Health Department, Ministry of Health, Siem Reap, Cambodia. Electronic address: hayphengte@gmail.com.', '7 Department of Microbiology and Parasitology, Faculty of Medicine and Health Sciences, Warmadewa University, Denpasar, Indonesia; Department of Medical Microbiology and Immunology, University of California, Davis, CA, USA. Electronic address: amegawati@ucdavis.edu.', '8 Medical Research Unit, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia; Tropical Disease Centre, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia; Department of Microbiology, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia; Department of Clinical Microbiology, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia. Electronic address: hayatikarmil@unsyiah.ac.id.', '9 Department of Epidemiology, University of Michigan, Ann Arbor, Michigan, MI 48109, USA. Electronic address: awag@umich.edu.', '10 Medical Research Unit, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia; Tropical Disease Centre, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia; Department of Microbiology, School of Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia. Electronic address: mudatsir@unsyiah.ac.id.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 80,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Coronavirus Disease 2019 (COVID-19): A Literature Review']"
+        }
+      },
+"end": {
+"identity": 83,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['J Infect Public Health']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 80,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Coronavirus Disease 2019 (COVID-19): A Literature Review']"
+            }
+          },
+          "relationship": {
+"identity": 62,
+"start": 80,
+"end": 83,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 83,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['J Infect Public Health']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 84,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Coronavirus Diseases (COVID-19) Current Status and Future Perspectives: A Narrative Review']"
+        }
+      },
+"end": {
+"identity": 85,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Francesco Di Gennaro', 'Damiano Pizzol', 'Claudia Marotta', 'Mario Antunes', 'Vincenzo Racalbuto', 'Nicola Veronese', 'Lee Smith']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 84,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Coronavirus Diseases (COVID-19) Current Status and Future Perspectives: A Narrative Review']"
+            }
+          },
+          "relationship": {
+"identity": 63,
+"start": 84,
+"end": 85,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 85,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Francesco Di Gennaro', 'Damiano Pizzol', 'Claudia Marotta', 'Mario Antunes', 'Vincenzo Racalbuto', 'Nicola Veronese', 'Lee Smith']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 84,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Coronavirus Diseases (COVID-19) Current Status and Future Perspectives: A Narrative Review']"
+        }
+      },
+"end": {
+"identity": 86,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 IRCCS Istituto Neurologico Mediterraneo NEUROMED, 86077 Pozzilli, Italy.', '2 Italian Agency for Development Cooperation, Khartoum 79371, Sudan.', '3 Department of Surgery, Central Hospital of Beira, Beira 2102, Mozambique.', '4 Geriatric Unit, Department of Internal Medicine and Geriatrics, University of Palermo, 90100 Palermo, Italy.', '5 The Cambridge Centre for Sport and Exercise Sciences, Anglia Ruskin University, Cambridge CB1 1PT, UK.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 84,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Coronavirus Diseases (COVID-19) Current Status and Future Perspectives: A Narrative Review']"
+            }
+          },
+          "relationship": {
+"identity": 64,
+"start": 84,
+"end": 86,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 86,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 IRCCS Istituto Neurologico Mediterraneo NEUROMED, 86077 Pozzilli, Italy.', '2 Italian Agency for Development Cooperation, Khartoum 79371, Sudan.', '3 Department of Surgery, Central Hospital of Beira, Beira 2102, Mozambique.', '4 Geriatric Unit, Department of Internal Medicine and Geriatrics, University of Palermo, 90100 Palermo, Italy.', '5 The Cambridge Centre for Sport and Exercise Sciences, Anglia Ruskin University, Cambridge CB1 1PT, UK.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 84,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Coronavirus Diseases (COVID-19) Current Status and Future Perspectives: A Narrative Review']"
+        }
+      },
+"end": {
+"identity": 87,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Int J Environ Res Public Health']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 84,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Coronavirus Diseases (COVID-19) Current Status and Future Perspectives: A Narrative Review']"
+            }
+          },
+          "relationship": {
+"identity": 65,
+"start": 84,
+"end": 87,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 87,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Int J Environ Res Public Health']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 88,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['COVID-19: Epidemiology, Evolution, and Cross-Disciplinary Perspectives']"
+        }
+      },
+"end": {
+"identity": 89,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Jiumeng Sun', 'Wan-Ting He', 'Lifang Wang', 'Alexander Lai', 'Xiang Ji', 'Xiaofeng Zhai', 'Gairu Li', 'Marc A Suchard', 'Jin Tian', 'Jiyong Zhou', 'Michael Veit', 'Shuo Su']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 88,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['COVID-19: Epidemiology, Evolution, and Cross-Disciplinary Perspectives']"
+            }
+          },
+          "relationship": {
+"identity": 66,
+"start": 88,
+"end": 89,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 89,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Jiumeng Sun', 'Wan-Ting He', 'Lifang Wang', 'Alexander Lai', 'Xiang Ji', 'Xiaofeng Zhai', 'Gairu Li', 'Marc A Suchard', 'Jin Tian', 'Jiyong Zhou', 'Michael Veit', 'Shuo Su']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 88,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['COVID-19: Epidemiology, Evolution, and Cross-Disciplinary Perspectives']"
+        }
+      },
+"end": {
+"identity": 90,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 MOE Joint International Research Laboratory of Animal Health and Food Safety, Jiangsu Engineering Laboratory of Animal Immunology, Institute of Immunology and College of Veterinary Medicine, Nanjing Agricultural University, Nanjing, China.', '2 College of Veterinary Medicine, China Agricultural University, Beijing, China.', '3 College of Natural, Applied, and Health Sciences, Kentucky State University, Frankfort, KY, USA.', '4 Department of Biomathematics, David Geffen School of Medicine at UCLA, University of California, Los Angeles, CA, USA.', '5 State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Harbin, China.', '6 Key Laboratory of Animal Virology of Ministry of Agriculture, Zhejiang University, Hangzhou, China.', '7 Institute for Virology, Center for Infection Medicine, Veterinary Faculty, Free University Berlin, Berlin, Germany. Electronic address: Michael.Veit@fu-berlin.de.', '8 MOE Joint International Research Laboratory of Animal Health and Food Safety, Jiangsu Engineering Laboratory of Animal Immunology, Institute of Immunology and College of Veterinary Medicine, Nanjing Agricultural University, Nanjing, China. Electronic address: shuosu@njau.edu.cn.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 88,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['COVID-19: Epidemiology, Evolution, and Cross-Disciplinary Perspectives']"
+            }
+          },
+          "relationship": {
+"identity": 67,
+"start": 88,
+"end": 90,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 90,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 MOE Joint International Research Laboratory of Animal Health and Food Safety, Jiangsu Engineering Laboratory of Animal Immunology, Institute of Immunology and College of Veterinary Medicine, Nanjing Agricultural University, Nanjing, China.', '2 College of Veterinary Medicine, China Agricultural University, Beijing, China.', '3 College of Natural, Applied, and Health Sciences, Kentucky State University, Frankfort, KY, USA.', '4 Department of Biomathematics, David Geffen School of Medicine at UCLA, University of California, Los Angeles, CA, USA.', '5 State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Harbin, China.', '6 Key Laboratory of Animal Virology of Ministry of Agriculture, Zhejiang University, Hangzhou, China.', '7 Institute for Virology, Center for Infection Medicine, Veterinary Faculty, Free University Berlin, Berlin, Germany. Electronic address: Michael.Veit@fu-berlin.de.', '8 MOE Joint International Research Laboratory of Animal Health and Food Safety, Jiangsu Engineering Laboratory of Animal Immunology, Institute of Immunology and College of Veterinary Medicine, Nanjing Agricultural University, Nanjing, China. Electronic address: shuosu@njau.edu.cn.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 88,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['COVID-19: Epidemiology, Evolution, and Cross-Disciplinary Perspectives']"
+        }
+      },
+"end": {
+"identity": 91,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Trends Mol Med']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 88,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['COVID-19: Epidemiology, Evolution, and Cross-Disciplinary Perspectives']"
+            }
+          },
+          "relationship": {
+"identity": 68,
+"start": 88,
+"end": 91,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 91,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Trends Mol Med']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 92,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Perspectives on Monoclonal Antibody Therapy as Potential Therapeutic Intervention for Coronavirus disease-19 (COVID-19)']"
+        }
+      },
+"end": {
+"identity": 93,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Balamurugan Shanmugaraj', 'Konlavat Siriwattananon', 'Kittikhun Wangkanont', 'Waranyoo Phoolcharoen']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 92,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Perspectives on Monoclonal Antibody Therapy as Potential Therapeutic Intervention for Coronavirus disease-19 (COVID-19)']"
+            }
+          },
+          "relationship": {
+"identity": 69,
+"start": 92,
+"end": 93,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 93,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Balamurugan Shanmugaraj', 'Konlavat Siriwattananon', 'Kittikhun Wangkanont', 'Waranyoo Phoolcharoen']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 92,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Perspectives on Monoclonal Antibody Therapy as Potential Therapeutic Intervention for Coronavirus disease-19 (COVID-19)']"
+        }
+      },
+"end": {
+"identity": 94,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Research unit for Plant-produced Pharmaceuticals, Chulalongkorn University, Bangkok, Thailand.', '2 Department of Pharmacognosy and Pharmaceutical Botany, Faculty of Pharmaceutical Sciences, Chulalongkorn University, Bangkok, Thailand.', '3 Department of Biochemistry, Faculty of Science, Chulalongkorn University, Bangkok, Thailand.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 92,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Perspectives on Monoclonal Antibody Therapy as Potential Therapeutic Intervention for Coronavirus disease-19 (COVID-19)']"
+            }
+          },
+          "relationship": {
+"identity": 70,
+"start": 92,
+"end": 94,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 94,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Research unit for Plant-produced Pharmaceuticals, Chulalongkorn University, Bangkok, Thailand.', '2 Department of Pharmacognosy and Pharmaceutical Botany, Faculty of Pharmaceutical Sciences, Chulalongkorn University, Bangkok, Thailand.', '3 Department of Biochemistry, Faculty of Science, Chulalongkorn University, Bangkok, Thailand.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 92,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Perspectives on Monoclonal Antibody Therapy as Potential Therapeutic Intervention for Coronavirus disease-19 (COVID-19)']"
+        }
+      },
+"end": {
+"identity": 95,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Asian Pac J Allergy Immunol']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 92,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Perspectives on Monoclonal Antibody Therapy as Potential Therapeutic Intervention for Coronavirus disease-19 (COVID-19)']"
+            }
+          },
+          "relationship": {
+"identity": 71,
+"start": 92,
+"end": 95,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 95,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Asian Pac J Allergy Immunol']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 96,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Outcomes in Patients With COVID-19 Infection Taking ACEI/ARB']"
+        }
+      },
+"end": {
+"identity": 97,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Juan Simon Rico-Mesa', 'Averi White', 'Allen S Anderson']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 96,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Outcomes in Patients With COVID-19 Infection Taking ACEI/ARB']"
+            }
+          },
+          "relationship": {
+"identity": 72,
+"start": 96,
+"end": 97,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 97,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Juan Simon Rico-Mesa', 'Averi White', 'Allen S Anderson']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 96,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Outcomes in Patients With COVID-19 Infection Taking ACEI/ARB']"
+        }
+      },
+"end": {
+"identity": 98,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Department of Medicine, University of Texas Health San Antonio, San Antonio, TX, 78229, USA.', '2 Department of Medicine, Division of Cardiovascular Diseases, University of Texas Health San Antonio, 7703 Floyd Curl Drive, MC 7872, San Antonio, TX, 78229, USA. Andersona4@uthscsa.edu.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 96,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Outcomes in Patients With COVID-19 Infection Taking ACEI/ARB']"
+            }
+          },
+          "relationship": {
+"identity": 73,
+"start": 96,
+"end": 98,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 98,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Department of Medicine, University of Texas Health San Antonio, San Antonio, TX, 78229, USA.', '2 Department of Medicine, Division of Cardiovascular Diseases, University of Texas Health San Antonio, 7703 Floyd Curl Drive, MC 7872, San Antonio, TX, 78229, USA. Andersona4@uthscsa.edu.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 96,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Outcomes in Patients With COVID-19 Infection Taking ACEI/ARB']"
+        }
+      },
+"end": {
+"identity": 99,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Curr Cardiol Rep']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 96,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Outcomes in Patients With COVID-19 Infection Taking ACEI/ARB']"
+            }
+          },
+          "relationship": {
+"identity": 74,
+"start": 96,
+"end": 99,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 99,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Curr Cardiol Rep']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 100,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Brief Review on COVID-19: The 2020 Pandemic Caused by SARS-CoV-2']"
+        }
+      },
+"end": {
+"identity": 101,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Damian N Valencia']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 100,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Brief Review on COVID-19: The 2020 Pandemic Caused by SARS-CoV-2']"
+            }
+          },
+          "relationship": {
+"identity": 75,
+"start": 100,
+"end": 101,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 101,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Damian N Valencia']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 100,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Brief Review on COVID-19: The 2020 Pandemic Caused by SARS-CoV-2']"
+        }
+      },
+"end": {
+"identity": 102,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Internal Medicine, Kettering Medical Center, Dayton, USA.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 100,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Brief Review on COVID-19: The 2020 Pandemic Caused by SARS-CoV-2']"
+            }
+          },
+          "relationship": {
+"identity": 76,
+"start": 100,
+"end": 102,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 102,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Internal Medicine, Kettering Medical Center, Dayton, USA.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 100,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Brief Review on COVID-19: The 2020 Pandemic Caused by SARS-CoV-2']"
+        }
+      },
+"end": {
+"identity": 103,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Cureus']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 100,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Brief Review on COVID-19: The 2020 Pandemic Caused by SARS-CoV-2']"
+            }
+          },
+          "relationship": {
+"identity": 77,
+"start": 100,
+"end": 103,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 103,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Cureus']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 104,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['COVID-19 and Cancer: A Comprehensive Review']"
+        }
+      },
+"end": {
+"identity": 105,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Rohit Gosain', 'Yara Abdou', 'Abhay Singh', 'Navpreet Rana', 'Igor Puzanov', 'Marc S Ernstoff']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 104,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['COVID-19 and Cancer: A Comprehensive Review']"
+            }
+          },
+          "relationship": {
+"identity": 78,
+"start": 104,
+"end": 105,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 105,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Rohit Gosain', 'Yara Abdou', 'Abhay Singh', 'Navpreet Rana', 'Igor Puzanov', 'Marc S Ernstoff']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 104,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['COVID-19 and Cancer: A Comprehensive Review']"
+        }
+      },
+"end": {
+"identity": 106,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Department of Medicine, Roswell Park Comprehensive Cancer Center, Elm and Carlton Street, Buffalo, NY, 14263, USA. rohit25@gmail.com.', '2 Department of Medicine, Roswell Park Comprehensive Cancer Center, Elm and Carlton Street, Buffalo, NY, 14263, USA.', '3 Department of Medicine, University at Buffalo, Buffalo, NY, USA.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 104,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['COVID-19 and Cancer: A Comprehensive Review']"
+            }
+          },
+          "relationship": {
+"identity": 79,
+"start": 104,
+"end": 106,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 106,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Department of Medicine, Roswell Park Comprehensive Cancer Center, Elm and Carlton Street, Buffalo, NY, 14263, USA. rohit25@gmail.com.', '2 Department of Medicine, Roswell Park Comprehensive Cancer Center, Elm and Carlton Street, Buffalo, NY, 14263, USA.', '3 Department of Medicine, University at Buffalo, Buffalo, NY, USA.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 104,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['COVID-19 and Cancer: A Comprehensive Review']"
+        }
+      },
+"end": {
+"identity": 107,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Curr Oncol Rep']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 104,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['COVID-19 and Cancer: A Comprehensive Review']"
+            }
+          },
+          "relationship": {
+"identity": 80,
+"start": 104,
+"end": 107,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 107,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Curr Oncol Rep']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 108,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Characteristics of COVID-19 Infection in Beijing']"
+        }
+      },
+"end": {
+"identity": 109,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Sijia Tian', 'Nan Hu', 'Jing Lou', 'Kun Chen', 'Xuqin Kang', 'Zhenjun Xiang', 'Hui Chen', 'Dali Wang', 'Ning Liu', 'Dong Liu', 'Gang Chen', 'Yongliang Zhang', 'Dou Li', 'Jianren Li', 'Huixin Lian', 'Shengmei Niu', 'Luxi Zhang', 'Jinjun Zhang']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 108,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Characteristics of COVID-19 Infection in Beijing']"
+            }
+          },
+          "relationship": {
+"identity": 81,
+"start": 108,
+"end": 109,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 109,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Sijia Tian', 'Nan Hu', 'Jing Lou', 'Kun Chen', 'Xuqin Kang', 'Zhenjun Xiang', 'Hui Chen', 'Dali Wang', 'Ning Liu', 'Dong Liu', 'Gang Chen', 'Yongliang Zhang', 'Dou Li', 'Jianren Li', 'Huixin Lian', 'Shengmei Niu', 'Luxi Zhang', 'Jinjun Zhang']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 108,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Characteristics of COVID-19 Infection in Beijing']"
+        }
+      },
+"end": {
+"identity": 110,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Beijing Emergency Medicine Research Institute, Beijing Emergency Medical Center, Beijing, China.', '2 Beijing Emergency Medical Center, Beijing, China.', '3 Beijing Chao Yang District Emergency Medical Center, Beijing, China.', '4 Beijing Haidian District Medical Rescue Center, Beijing, China.', '5 Beijing Luhe Hospital, Capital Medical University, Beijing, China.', '6 Beijing Dongcheng District Emergency Medical Center, Beijing, China.', '7 Beijing Shijingshan District Hospital, Beijing, China.', \"8 Beijing Daxing District People's Hospital, Beijing, China.\", '9 Beijing Emergency Medicine Research Institute, Beijing Emergency Medical Center, Beijing, China. Electronic address: zhang92560@163.com.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 108,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Characteristics of COVID-19 Infection in Beijing']"
+            }
+          },
+          "relationship": {
+"identity": 82,
+"start": 108,
+"end": 110,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 110,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Beijing Emergency Medicine Research Institute, Beijing Emergency Medical Center, Beijing, China.', '2 Beijing Emergency Medical Center, Beijing, China.', '3 Beijing Chao Yang District Emergency Medical Center, Beijing, China.', '4 Beijing Haidian District Medical Rescue Center, Beijing, China.', '5 Beijing Luhe Hospital, Capital Medical University, Beijing, China.', '6 Beijing Dongcheng District Emergency Medical Center, Beijing, China.', '7 Beijing Shijingshan District Hospital, Beijing, China.', \"8 Beijing Daxing District People's Hospital, Beijing, China.\", '9 Beijing Emergency Medicine Research Institute, Beijing Emergency Medical Center, Beijing, China. Electronic address: zhang92560@163.com.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 108,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Characteristics of COVID-19 Infection in Beijing']"
+        }
+      },
+"end": {
+"identity": 111,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['J Infect']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 108,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Characteristics of COVID-19 Infection in Beijing']"
+            }
+          },
+          "relationship": {
+"identity": 83,
+"start": 108,
+"end": 111,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 111,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['J Infect']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 112,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Why Are Pregnant Women Susceptible to COVID-19? An Immunological Viewpoint']"
+        }
+      },
+"end": {
+"identity": 113,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Hong Liu', 'Li-Ling Wang', 'Si-Jia Zhao', 'Joanne Kwak-Kim', 'Gil Mor', 'Ai-Hua Liao']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 112,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Why Are Pregnant Women Susceptible to COVID-19? An Immunological Viewpoint']"
+            }
+          },
+          "relationship": {
+"identity": 84,
+"start": 112,
+"end": 113,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 113,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Hong Liu', 'Li-Ling Wang', 'Si-Jia Zhao', 'Joanne Kwak-Kim', 'Gil Mor', 'Ai-Hua Liao']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 112,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Why Are Pregnant Women Susceptible to COVID-19? An Immunological Viewpoint']"
+        }
+      },
+"end": {
+"identity": 114,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Institute of Reproductive Health, Center for Reproductive Medicine, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.', '2 Reproductive Medicine and Immunology, Obstetrics and Gynecology, Department of Clinical Sciences, Chicago Medical School, Rosalind Franklin University of Medicine and Science, Vernon Hills, IL, USA; Microbiology and Immunology, Department of Foundational Science and Humanities, Chicago Medical School, Rosalind Franklin University of Medicine and Science, N. Chicago, IL, USA. Electronic address: joanne.kwakkim@rosalindfranklin.edu.', '3 C.S. Mott Center for Human Growth and Development, Department of Obstetrics and Gynecology, Wayne State University, Detroit, USA. Electronic address: gmor@med.wanye.edu.', '4 Institute of Reproductive Health, Center for Reproductive Medicine, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China. Electronic address: aihua_liao@sina.com.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 112,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Why Are Pregnant Women Susceptible to COVID-19? An Immunological Viewpoint']"
+            }
+          },
+          "relationship": {
+"identity": 85,
+"start": 112,
+"end": 114,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 114,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Institute of Reproductive Health, Center for Reproductive Medicine, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.', '2 Reproductive Medicine and Immunology, Obstetrics and Gynecology, Department of Clinical Sciences, Chicago Medical School, Rosalind Franklin University of Medicine and Science, Vernon Hills, IL, USA; Microbiology and Immunology, Department of Foundational Science and Humanities, Chicago Medical School, Rosalind Franklin University of Medicine and Science, N. Chicago, IL, USA. Electronic address: joanne.kwakkim@rosalindfranklin.edu.', '3 C.S. Mott Center for Human Growth and Development, Department of Obstetrics and Gynecology, Wayne State University, Detroit, USA. Electronic address: gmor@med.wanye.edu.', '4 Institute of Reproductive Health, Center for Reproductive Medicine, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China. Electronic address: aihua_liao@sina.com.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 112,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Why Are Pregnant Women Susceptible to COVID-19? An Immunological Viewpoint']"
+        }
+      },
+"end": {
+"identity": 115,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['J Reprod Immunol']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 112,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Why Are Pregnant Women Susceptible to COVID-19? An Immunological Viewpoint']"
+            }
+          },
+          "relationship": {
+"identity": 86,
+"start": 112,
+"end": 115,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 115,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['J Reprod Immunol']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 116,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Early Dynamics of Transmission and Control of COVID-19: A Mathematical Modelling Study']"
+        }
+      },
+"end": {
+"identity": 117,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Adam J Kucharski', 'Timothy W Russell', 'Charlie Diamond', 'Yang Liu', 'John Edmunds', 'Sebastian Funk', 'Rosalind M Eggo', 'Centre for Mathematical Modelling of Infectious Diseases COVID-19 working group']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 116,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Early Dynamics of Transmission and Control of COVID-19: A Mathematical Modelling Study']"
+            }
+          },
+          "relationship": {
+"identity": 87,
+"start": 116,
+"end": 117,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 117,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Adam J Kucharski', 'Timothy W Russell', 'Charlie Diamond', 'Yang Liu', 'John Edmunds', 'Sebastian Funk', 'Rosalind M Eggo', 'Centre for Mathematical Modelling of Infectious Diseases COVID-19 working group']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 116,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Early Dynamics of Transmission and Control of COVID-19: A Mathematical Modelling Study']"
+        }
+      },
+"end": {
+"identity": 118,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, London, UK. Electronic address: adam.kucharski@lshtm.ac.uk.', '2 Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, London, UK.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 116,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Early Dynamics of Transmission and Control of COVID-19: A Mathematical Modelling Study']"
+            }
+          },
+          "relationship": {
+"identity": 88,
+"start": 116,
+"end": 118,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 118,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, London, UK. Electronic address: adam.kucharski@lshtm.ac.uk.', '2 Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, London, UK.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 116,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Early Dynamics of Transmission and Control of COVID-19: A Mathematical Modelling Study']"
+        }
+      },
+"end": {
+"identity": 119,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Lancet Infect Dis']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 116,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Early Dynamics of Transmission and Control of COVID-19: A Mathematical Modelling Study']"
+            }
+          },
+          "relationship": {
+"identity": 89,
+"start": 116,
+"end": 119,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 119,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Lancet Infect Dis']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 120,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Risk-adapted Treatment Strategy For COVID-19 Patients']"
+        }
+      },
+"end": {
+"identity": 121,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Changcheng Zheng', 'Jinquan Wang', 'Hui Guo', 'Zhaohui Lu', 'Yan Ma', 'Yuyou Zhu', 'Daqing Xia', 'Yinzhong Wang', 'Hongliang He', 'Jian Zhou', 'Yong Wang', 'Mingming Fei', 'Yihong Yin', 'Mao Zheng', 'Yehong Xu', 'Anhui Medical team members of National aid to prevent and treat novel coronavirus pneumonia in Wuhan']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 120,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Risk-adapted Treatment Strategy For COVID-19 Patients']"
+            }
+          },
+          "relationship": {
+"identity": 90,
+"start": 120,
+"end": 121,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 121,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Changcheng Zheng', 'Jinquan Wang', 'Hui Guo', 'Zhaohui Lu', 'Yan Ma', 'Yuyou Zhu', 'Daqing Xia', 'Yinzhong Wang', 'Hongliang He', 'Jian Zhou', 'Yong Wang', 'Mingming Fei', 'Yihong Yin', 'Mao Zheng', 'Yehong Xu', 'Anhui Medical team members of National aid to prevent and treat novel coronavirus pneumonia in Wuhan']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 120,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Risk-adapted Treatment Strategy For COVID-19 Patients']"
+        }
+      },
+"end": {
+"identity": 122,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China. Electronic address: zhengchch1123@ustc.edu.cn.', '2 The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China. Electronic address: jqwang604@163.com.', '3 Union Hospital affiliated to Tongji Medical College of Huazhong University of Science and Technology, Wuhan, China.', '4 The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 120,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Risk-adapted Treatment Strategy For COVID-19 Patients']"
+            }
+          },
+          "relationship": {
+"identity": 91,
+"start": 120,
+"end": 122,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 122,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China. Electronic address: zhengchch1123@ustc.edu.cn.', '2 The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China. Electronic address: jqwang604@163.com.', '3 Union Hospital affiliated to Tongji Medical College of Huazhong University of Science and Technology, Wuhan, China.', '4 The First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 120,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Risk-adapted Treatment Strategy For COVID-19 Patients']"
+        }
+      },
+"end": {
+"identity": 123,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Int J Infect Dis']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 120,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Risk-adapted Treatment Strategy For COVID-19 Patients']"
+            }
+          },
+          "relationship": {
+"identity": 92,
+"start": 120,
+"end": 123,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 123,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Int J Infect Dis']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 124,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['SARS-CoV-2 Causing Pneumonia-Associated Respiratory Disorder (COVID-19): Diagnostic and Proposed Therapeutic Options']"
+        }
+      },
+"end": {
+"identity": 125,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['C Chakraborty', 'A R Sharma', 'G Sharma', 'M Bhattacharya', 'S S Lee']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 124,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['SARS-CoV-2 Causing Pneumonia-Associated Respiratory Disorder (COVID-19): Diagnostic and Proposed Therapeutic Options']"
+            }
+          },
+          "relationship": {
+"identity": 93,
+"start": 124,
+"end": 125,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 125,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['C Chakraborty', 'A R Sharma', 'G Sharma', 'M Bhattacharya', 'S S Lee']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 124,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['SARS-CoV-2 Causing Pneumonia-Associated Respiratory Disorder (COVID-19): Diagnostic and Proposed Therapeutic Options']"
+        }
+      },
+"end": {
+"identity": 126,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Institute for Skeletal Aging & Orthopedic Surgery, Hallym University-Chuncheon Sacred Heart Hospital, Chuncheon-si, Gangwon-do, Korea. drchiranjib@yahoo.com.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 124,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['SARS-CoV-2 Causing Pneumonia-Associated Respiratory Disorder (COVID-19): Diagnostic and Proposed Therapeutic Options']"
+            }
+          },
+          "relationship": {
+"identity": 94,
+"start": 124,
+"end": 126,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 126,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Institute for Skeletal Aging & Orthopedic Surgery, Hallym University-Chuncheon Sacred Heart Hospital, Chuncheon-si, Gangwon-do, Korea. drchiranjib@yahoo.com.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 124,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['SARS-CoV-2 Causing Pneumonia-Associated Respiratory Disorder (COVID-19): Diagnostic and Proposed Therapeutic Options']"
+        }
+      },
+"end": {
+"identity": 127,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Eur Rev Med Pharmacol Sci']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 124,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['SARS-CoV-2 Causing Pneumonia-Associated Respiratory Disorder (COVID-19): Diagnostic and Proposed Therapeutic Options']"
+            }
+          },
+          "relationship": {
+"identity": 95,
+"start": 124,
+"end": 127,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 127,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Eur Rev Med Pharmacol Sci']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 128,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Anti-HCV, Nucleotide Inhibitors, Repurposing Against COVID-19']"
+        }
+      },
+"end": {
+"identity": 129,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Abdo A Elfiky']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 128,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Anti-HCV, Nucleotide Inhibitors, Repurposing Against COVID-19']"
+            }
+          },
+          "relationship": {
+"identity": 96,
+"start": 128,
+"end": 129,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 129,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Abdo A Elfiky']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 128,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Anti-HCV, Nucleotide Inhibitors, Repurposing Against COVID-19']"
+        }
+      },
+"end": {
+"identity": 130,
+"labels": [
+          "机构"
+        ],
+"properties": {
+"name": "[['1 Biophysics Department, Faculty of Sciences, Cairo University, Giza, Egypt; College of Applied Medical Sciences, University of Al-Jouf, Saudi Arabia. Electronic address: abdo@sci.cu.edu.eg.']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 128,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Anti-HCV, Nucleotide Inhibitors, Repurposing Against COVID-19']"
+            }
+          },
+          "relationship": {
+"identity": 97,
+"start": 128,
+"end": 130,
+"type": "机构是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 130,
+"labels": [
+              "机构"
+            ],
+"properties": {
+"name": "[['1 Biophysics Department, Faculty of Sciences, Cairo University, Giza, Egypt; College of Applied Medical Sciences, University of Al-Jouf, Saudi Arabia. Electronic address: abdo@sci.cu.edu.eg.']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 128,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Anti-HCV, Nucleotide Inhibitors, Repurposing Against COVID-19']"
+        }
+      },
+"end": {
+"identity": 131,
+"labels": [
+          "期刊名"
+        ],
+"properties": {
+"name": "['Life Sci']"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 128,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Anti-HCV, Nucleotide Inhibitors, Repurposing Against COVID-19']"
+            }
+          },
+          "relationship": {
+"identity": 98,
+"start": 128,
+"end": 131,
+"type": "期刊是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 131,
+"labels": [
+              "期刊名"
+            ],
+"properties": {
+"name": "['Life Sci']"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 132,
+"labels": [
+          "新闻"
+        ],
+"properties": {
+"name": "['Teicoplanin: An Alternative Drug for the Treatment of COVID-19?']"
+        }
+      },
+"end": {
+"identity": 133,
+"labels": [
+          "作者"
+        ],
+"properties": {
+"name": "[['Sophie Alexandra Baron', 'Christian Devaux', 'Philippe Colson', 'Didier Raoult', 'Jean-Marc Rolain']]"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 132,
+"labels": [
+              "新闻"
+            ],
+"properties": {
+"name": "['Teicoplanin: An Alternative Drug for the Treatment of COVID-19?']"
+            }
+          },
+          "relationship": {
+"identity": 99,
+"start": 132,
+"end": 133,
+"type": "作者是",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 133,
+"labels": [
+              "作者"
+            ],
+"properties": {
+"name": "[['Sophie Alexandra Baron', 'Christian Devaux', 'Philippe Colson', 'Didier Raoult', 'Jean-Marc Rolain']]"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  }
+]

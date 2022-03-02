@@ -1,0 +1,24 @@
+<!--index.wxml-->
+<!-- <view class="container">
+  <view class="userinfo">
+    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
+    <block wx:else>
+      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
+      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+    </block>
+  </view>
+  <view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+  </view>
+</view> -->
+
+<view class="content">
+    <!--pics文件夹下的background.jpg文件-->
+    <image class='background' src="https://wx3.sinaimg.cn/mw690/005MYlQHly1gdbw0600toj32qh43n1l1.jpg" mode="aspectFill"></image>
+    <!--页面其它部分-->
+</view>
+  <!-- <text class='wenzi' decode="{{true}}" space="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;基于知识图谱的
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;非遗问答系统</text> -->
+  
+
+

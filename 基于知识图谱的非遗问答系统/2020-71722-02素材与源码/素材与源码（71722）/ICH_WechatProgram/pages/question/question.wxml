@@ -1,0 +1,40 @@
+<!--pages/question/question.wxml-->
+
+
+<view class="content">
+    <!--pics文件夹下的background.jpg文件-->
+    <image class='background' src="https://wx3.sinaimg.cn/mw690/005MYlQHly1gdbw099xwcj32qh43nnpg.jpg" mode="aspectFill"></image>
+    <!--页面其它部分-->
+</view>
+<view class="logo1"><image src="../../img/logo000.png"/></view>
+
+<!-- <text >请输入关键词</text>
+
+<view>
+     <view>
+        <view class="weui-search-bar">
+            <view class="weui-search-bar__form">
+            <!-- 搜索框 -->
+                <!-- <view class="weui-search-bar__box">
+                    <icon class="weui-icon-search_in-box" type="search" size="14"></icon>
+                    <input type="text" class="weui-search-bar__input" placeholder="请输入搜索内容"/>
+                </view>
+            </view>
+            <!-- 搜索按钮,调用搜索查询方法 -->
+            <!-- <view class="weui-search-bar__cancel-btn" bindtap='方法名a'>搜索</view>
+        </view>
+    </view>
+</view>  -->
+
+<view>
+
+<input class="biankuang" type="text" placeholder="请输入您的问题" bindinput="question_in"></input>
+</view>
+<view class="button">
+<button type="primary" size="{{primarySize}}" loading="{{loading}}" plain="{{plain}}"
+        disabled="{{disabled}}" bindtap="tiaozhuan" style="background:grey;width:90px"> 检索 </button>
+</view>
+
+
+
+

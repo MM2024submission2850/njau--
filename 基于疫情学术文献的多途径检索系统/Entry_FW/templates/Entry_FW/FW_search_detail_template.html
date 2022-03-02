@@ -1,0 +1,37 @@
+{% comment %} 用于构建文献的细节部分 {% endcomment %}
+{% load static %}
+
+<!-- Content Row -->
+<div class="row">
+
+    <!-- 搜索结果的详细信息 -->
+    <div class="col-xl-12 col-lg-12">
+        <div class="card shadow mb-4" id="search_results_detail" style="width: 100%;height: 100%;padding: 10px">
+            <p class="font-weight-bold">标题</p>
+            <h3 class="title">{{ data.title }}</h3>
+            <p class="font-weight-bold">实体</p>
+            <p>{{ data.entity }}</p>
+            <p class="font-weight-bold">文献类别</p>
+            <p> {{ data.doc_class }}</p>
+            <p class="font-weight-bold">作者</p>
+            <p>{{ data.author }} </p>
+            <p class="font-weight-bold">摘要</p>
+            <p>{{ data.abstract }}</p>
+            <p class="font-weight-bold">关键词</p>
+            <p>{{ data.keyword }} </p>
+            <p class="font-weight-bold">论文链接</p>
+            <p>
+                <a href="https://doi.org/{{ data.doi}}" title="https://doi.org/{{ data.doi}}">{{ data.doi }}</a>
+            </p>
+            <p>出版商</p>
+            <p> {{ data.publisher }}</p>
+            <p>发表时间</p>
+            <p> {{ data.publish_num }} </p>
+        </div>
+
+    </div>
+
+</div>
+
+<script src="{% static 'Entry_FW/js/search_detail.js' %}"></script>
+<link rel="stylesheet" href="{% static 'css/bootstrap-table.css' %}">

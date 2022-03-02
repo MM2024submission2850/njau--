@@ -1,0 +1,12 @@
+{% load static %}
+
+<!-- Content Row -->
+<div class="row">
+    <div class="col-md-12">
+        <!-- 关键词关系图展示，这里不用展示关键词，修改成展示标签墙即可 -->
+        <div id="keywordmap" style="width: 100%;height: 450px;"></div>
+
+        <p style="margin: 20px 30px">  图谱统计是实体识别后，对实体进行统计的结果，展示了实体之间的关系，实体圆形的大小代表数据库中包含此实体的数量的多少。（用户可以通过点击实体，查看更详细的关系信息）</p>
+        <script src="{% static 'Entry_FW/js/keywordmap.js' %}"></script>
+    </div>
+</div>

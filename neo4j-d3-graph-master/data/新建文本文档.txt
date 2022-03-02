@@ -1,0 +1,1 @@
+MATCH p=(n:Enterprise)-[]->() RETURN p limit 20

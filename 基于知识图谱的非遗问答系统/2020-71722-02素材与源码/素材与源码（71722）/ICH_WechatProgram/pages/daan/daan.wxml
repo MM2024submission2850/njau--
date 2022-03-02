@@ -1,0 +1,24 @@
+<!--pages/daan/daan.wxml-->
+<view class="navbar">
+<image class='background' src="https://wx4.sinaimg.cn/mw690/005MYlQHly1gdbw01v9izj32jj3t7hdw.jpg" mode="aspectFill"></image>
+  <text wx:for="{{navbar}}" data-idx="{{index}}" class="item {{currentTab==index ? 'active' : ''}}" wx:key="unique" bindtap="navbarTap">{{item}}</text>
+</view>
+ 
+<!--问句答案-->
+<view hidden="{{currentTab!==0}}">
+<view class="two">
+<text class="txt">{{answer}}</text> 
+</view>
+<view class="container">
+  <ec-canvas id="mychart-dom-graph" canvas-id="mychart-praph" ec="{{ ec }}"></ec-canvas>
+</view>
+</view>
+
+<!--详细介绍-->
+<view hidden="{{currentTab!==1}}">
+<view class="three">
+<image class="projectimg" src="{{imgpath}}"/>
+<text class="txt">{{detail}}</text>
+</view>
+</view>
+

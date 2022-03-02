@@ -1,0 +1,267 @@
+['<span class="ctt">:【<img alt="[话筒]" src="//h5.sinaimg.cn/m/emoticon/icon/others/o_huatong-a3c5f9bcc2.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">感谢各省同胞支援，湖北人民感谢你们，疫情重区的冬天，因为有你们，很温暖。这几天看到各省同胞支援的消息真的超级感动。等我们好了，欢迎各省同胞来看看，我们带你们去吃油焖大虾，热干面，去逛江滩，坐轮渡，去看看江湖人间烟火气。我们会乖乖呆在家里，不能冲在第一线，也绝不给政府，给社会添麻烦</span>', '<span class="ctt">西藏，挺住！</span>', '<span class="ctt">西藏稳住</span>', '<span class="ctt">6</span>', '<span class="ctt">私信你了，记得查看哦<img alt="[微笑]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_hehe-039d0a6a8a.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/Faeries">@Faeries</a>:福建，在夹缝中生存，挺住</span>', '<span class="ctt">回复<a href="/n/%E4%B8%80%E8%B7%AF%E4%B8%8A%E6%9C%89%E4%BD%A0ZL">@一路上有你ZL</a>:地震了</span>', '<span class="ctt">回复<a href="/n/0528%E8%99%9F%E6%98%9F%E7%90%83_">@0528號星球_</a>:折耳根护体</span>', '<span class="ctt">回复<a href="/n/%E5%B0%8F%E5%B0%8F%E8%A5%BF%E6%9F%9Axy">@小小西柚xy</a>:我们浙江真的太惨了</span>', '<span class="ctt">回复<a href="/n/%E4%BB%8A%E5%A4%A9%E6%89%93%E6%9D%9C%E6%9D%9C%E4%BA%86%E6%B2%A1">@今天打杜杜了没</a>:是你干的</span>', '<span class="ctt">回复<a href="/n/%E5%8C%97%E5%8C%970817">@北北0817</a>:深圳</span>']['<span class="ctt">:【<img alt="[话筒]" src="//h5.sinaimg.cn/m/emoticon/icon/others/o_huatong-a3c5f9bcc2.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">感谢各省同胞支援，湖北人民感谢你们，疫情重区的冬天，因为有你们，很温暖。这几天看到各省同胞支援的消息真的超级感动。等我们好了，欢迎各省同胞来看看，我们带你们去吃油焖大虾，热干面，去逛江滩，坐轮渡，去看看江湖人间烟火气。我们会乖乖呆在家里，不能冲在第一线，也绝不给政府，给社会添麻烦</span>', '<span class="ctt">西藏，挺住！</span>', '<span class="ctt">西藏稳住</span>', '<span class="ctt">6</span>', '<span class="ctt">私信你了，记得查看哦<img alt="[微笑]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_hehe-039d0a6a8a.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/Faeries">@Faeries</a>:福建，在夹缝中生存，挺住</span>', '<span class="ctt">回复<a href="/n/%E4%B8%80%E8%B7%AF%E4%B8%8A%E6%9C%89%E4%BD%A0ZL">@一路上有你ZL</a>:地震了</span>', '<span class="ctt">回复<a href="/n/0528%E8%99%9F%E6%98%9F%E7%90%83_">@0528號星球_</a>:折耳根护体</span>', '<span class="ctt">回复<a href="/n/%E5%B0%8F%E5%B0%8F%E8%A5%BF%E6%9F%9Axy">@小小西柚xy</a>:我们浙江真的太惨了</span>', '<span class="ctt">回复<a href="/n/%E4%BB%8A%E5%A4%A9%E6%89%93%E6%9D%9C%E6%9D%9C%E4%BA%86%E6%B2%A1">@今天打杜杜了没</a>:是你干的</span>', '<span class="ctt">回复<a href="/n/%E5%8C%97%E5%8C%970817">@北北0817</a>:深圳</span>']['<span class="ctt">回复<a href="/n/%E5%8C%97%E5%8C%970817">@北北0817</a>:靠得是数据分析！闭着眼睛乱说怎么可能有准头？</span>', '<span class="ctt">回复<a href="/n/%E5%BF%AB%E4%B9%90%E7%9A%84%E5%B0%8F%E8%9C%9C%E8%9C%821992">@快乐的小蜜蜂1992</a>:一句话三个<img alt="[微笑]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_hehe-039d0a6a8a.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E5%BF%AB%E4%B9%90%E7%9A%84%E5%B0%8F%E8%9C%9C%E8%9C%821992">@快乐的小蜜蜂1992</a>:哇 行嘛 我想太多</span>', '<span class="ctt">回复<a href="/n/%E5%8C%97%E5%8C%970817">@北北0817</a>:看今天数据！让你再叫！<img alt="[酷]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_ku-6fa1a42f7b.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E5%BF%AB%E4%B9%90%E7%9A%84%E5%B0%8F%E8%9C%9C%E8%9C%821992">@快乐的小蜜蜂1992</a>:如果你没有骂我的意思 那麻烦你表达清楚 不要把话写得那么让人误解 毕竟是网络发言 谢谢<img alt="[心]" src="//h5.sinaimg.cn/m/emoticon/icon/others/l_xin-6912791858.png" style="width:1em; height:1em;" /></span>', '<span class="ctt"><a href="/n/%E6%99%BA%E8%A1%8C%E7%81%AB%E8%BD%A6%E7%A5%A8">@智行火车票</a> <a href="/n/%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA">@春秋航空</a> 过年期间的机票退不了。客服无人接听。人工也不回复。退票无门。你们这些人发国难财真的心安理得吗？特殊时期大家都很难。为什么航空公司和售票平台没有一点责任感？我们要求退票。请快速处理</span>', '<span class="ctt">我用我的命换西藏的安全该多好</span>', '<span class="ctt">加油</span>']['<span class="ctt">河南加油！！！</span>', '<span class="ctt">东航900元机票要收600元手续费，这是趁人病要人命啊，你们赚不到钱就这样赚</span>', '<span class="ctt">回复<a href="/n/%E5%81%B6%E5%83%8F%E9%92%9F%E5%8D%97%E5%B1%B1">@偶像钟南山</a>:湖南至今没有一个热搜，新增那么多</span>', '<span class="ctt">希望大家关注一下兰州市，口罩想都别想，还预防，真实难为我们了。</span>', '<span class="ctt">东北加油</span>', '<span class="ctt">昨天的没有啊，今天的啥时候出来</span>', '<span class="ctt">辽宁挺住！！！</span>', '<span class="ctt">希望可以看到28号的疫区分布图</span>', '<span class="ctt">折耳根护体！贵州挺住[加油]不想再看到有新疫情出现了，各个地区的同胞们要挺住🙏</span>']['<span class="ctt"><a href="/n/%E6%88%91%E7%9A%84%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0">@我的印象笔记</a></span>', '<span class="ctt">贵州撑住！我们能赢！</span>', '<span class="ctt">最后倔强的鸡屁股<img alt="[可怜]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_kelian-3e00ccdc26.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E5%9C%86%E5%B0%8F%E5%9C%86%E7%8C%AA">@圆小圆猪</a>:加油，亲，我们同在</span>', '<span class="ctt">西藏肯定是开挂了，怎么做到的<img alt="[笑cry]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_xiaoku-d320324f00.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E6%98%A5%E5%A4%A9%E8%88%AC%E7%9A%84%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%84%BF">@春天般的小女孩儿</a>:谢谢 有被笑到哈哈哈哈哈</span>', '<span class="ctt">回复<a href="/n/%E6%AF%94%E5%A5%A5%E5%88%A9%E5%A5%A5%E8%BF%98%E5%A5%A5oral">@比奥利奥还奥oral</a>:我没有急啊  需要急什么吗  不是你在这儿跟我表演狗急跳墙吗</span>', '<span class="ctt">回复<a href="/n/%E6%98%A5%E5%A4%A9%E8%88%AC%E7%9A%84%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%84%BF">@春天般的小女孩儿</a>:笑死我了你急什么？老子遵义的满大街都戴口罩 <img alt="[微笑]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_hehe-039d0a6a8a.png" style="width:1em; height:1em;" /></span>']['<span class="ctt">回复<a href="/n/24%E5%B2%81%E7%9A%84%E8%80%81%E5%B9%B4%E7%BD%91%E5%8F%8Blisa">@24岁的老年网友lisa</a>:嗯，是确诊人数增多，也是感染人数增多，但是感染的百分之八九十是25号之前就感染了，只是没有确诊没有报道出来。现在全国基本都不出门了，封城封村的，传染途径相对之前少了很多，我家附近也确诊了很多例，但是保证不出门就没那么恐慌</span>', '<span class="ctt">回复<a href="/n/%E6%AF%94%E5%A5%A5%E5%88%A9%E5%A5%A5%E8%BF%98%E5%A5%A5oral">@比奥利奥还奥oral</a>:你妈没教会你说话就别出来说话了行嘛？ 只有贵阳看到的戴口罩的人多一些，其他很多地方尤其是镇下很多都没戴 你没看到不代表别人没看到 我一字一句没有任何污蔑和不好的意思  张嘴就跟我口吐芬芳  读书读到狗肚子里去了？</span>', '<span class="ctt">我贵州太不容易了，都快要被黑红包围了</span>', '<span class="ctt">回复<a href="/n/%E5%9C%86%E5%B0%8F%E5%9C%86%E7%8C%AA">@圆小圆猪</a>:加油啊(ง •̀_•́)ง</span>', '<span class="ctt">重庆也需要物资，重庆也需要物资，重庆也需要物资，有没有人看见呀！大家进微博<a href="/n/%E4%BB%8A%E6%97%A5%E9%87%8D%E5%BA%86">@今日重庆</a> 看看！</span>', '<span class="ctt">回复<a href="/n/%E4%B8%8D%E6%B7%B7%E5%9C%88%E7%9A%84%E7%83%8A%E4%BA%BA">@不混圈的烊人</a>:<img alt="[doge]" src="//h5.sinaimg.cn/m/emoticon/icon/others/d_doge-861403219c.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E5%81%B6%E5%83%8F%E9%92%9F%E5%8D%97%E5%B1%B1">@偶像钟南山</a>:小破湘西都有了，没什么说的！</span>', '<span class="ctt">回复<a href="/n/%E5%9C%86%E5%B0%8F%E5%9C%86%E7%8C%AA">@圆小圆猪</a>:折耳根给热干面加油<img alt="[笑cry]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_xiaoku-d320324f00.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">祖国，加油！</span>', '<span class="ctt">广东都红成这样了，也没想着延期复工<img alt="[失望]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_shiwang-7925938d93.png" style="width:1em; height:1em;" /></span>']['<span class="ctt">回复<a href="/n/%E5%87%A1%E6%B3%B0%E6%96%AF%E7%BC%87%E5%85%8B">@凡泰斯缇克</a>:洛阳是无敌的</span>', '<span class="ctt">回复<a href="/n/%E7%BD%91%E7%98%BE%E5%B0%91%E5%A5%B3%E5%B0%8F%E7%BD%97%E5%90%8C%E5%AD%A6">@网瘾少女小罗同学</a>:苗疆巫术护体！</span>', '<span class="ctt">贵州最后的倔强：你不要过来啊啊啊啊啊啊啊啊！！！</span>', '<span class="ctt">回复<a href="/n/fffengjiayyyy">@fffengjiayyyy</a>:假期肯定过比你有乐趣 没办法我也有指出你说的是一条屁话（你自己说的）的权利啊</span>', '<span class="ctt">回复<a href="/n/%E6%B8%85%E5%87%80_rz">@清净_rz</a>:我爱听谁听谁 您 管 的 着 吗？</span>', '<span class="ctt">我是双峰县青树坪镇一村民，到现在正月初四也从未看到村里有干部和领导过来通知和宣传此事件。导致村里没都没有人重视都没戴口罩，每天好多人都聚集在一起。初三初四还有从长沙，湖北回来的人。</span>', '<span class="ctt">死亡病例越来越多，增速吓人，前天50多 昨天80，今天100多了。</span>', '<span class="ctt">回复<a href="/n/%E5%92%B8%E8%9B%8B%E9%BB%84%E5%95%B5%E5%95%B5%E5%85%94%E5%8F%BD%E5%8C%85">@咸蛋黄啵啵兔叽包</a>:湖南太难了</span>', '<span class="ctt">回复<a href="/n/%E5%9C%86%E5%B0%8F%E5%9C%86%E7%8C%AA">@圆小圆猪</a>:驴肉火烧给热干面加油！</span>', '<span class="ctt"><img alt="[武汉加油]" src="//h5.sinaimg.cn/m/emoticon/icon/others/cw_wuhanjiayou-0e0df8741a.png" style="width:1em; height:1em;" /></span>']['<span class="ctt">麻烦工作做细一点，把1000和100的颜色区分开呀！</span>', '<span class="ctt">回复<a href="/n/Sepesttoi">@Sepesttoi</a>:不能一棒子打死所有人吧？你确定不是在武汉读书或者打工的外地人跑回去过年的嘛？ 武汉本地人的家就在那儿还需要跑出去过年？</span>', '<span class="ctt">重庆都成了重灾区了吗？</span>', '<span class="ctt">回复<a href="/n/%E7%BD%91%E7%98%BE%E5%B0%91%E5%A5%B3%E5%B0%8F%E7%BD%97%E5%90%8C%E5%AD%A6">@网瘾少女小罗同学</a>:贵州老乡们 我们茅台消毒吧<img alt="[并不简单]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_bingbujiandan-e0c6936005.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E6%98%A5%E5%A4%A9%E8%88%AC%E7%9A%84%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%84%BF">@春天般的小女孩儿</a>:？你在想屁吃 我们市街上都是戴口罩的 你真的是贵州的？</span>', '<span class="ctt">回复<a href="/n/%E5%8F%AA%E6%98%AF%E5%9C%A8%E8%B7%AF%E8%BF%87ing">@只是在路过ing</a>:主要是河南人多还密集</span>', '<span class="ctt">请人民日报关注各地出现的捡拾口罩二次包装的恶劣行为！建议警方应该巡逻治理！！这种行为比小偷流氓盗窃的隐患危害给大！</span>', '<span class="ctt">今天好不容易出太阳恍惚间以为有希望<img alt="[伤心]" src="//h5.sinaimg.cn/m/emoticon/icon/others/l_shangxin-934f730572.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/_%E7%90%B3%E6%9D%B08023">@_琳杰8023</a>:父母打麻将的劝都劝不住，有其他人在旁边聊天，非要吃饭，那我怕死只有不吃了</span>']['<span class="ctt">看到重庆红的发黑很是担心，大渡口有有六个人被确诊了，可是我父母都还没有买到口在垫江药店一到货就不到十分钟就没了，还是每人限量的很担心啊。只好每天打电话告诉我妈我他们不要出去。口罩和酒精都买不到了有些黑心商家一个一次性口罩两层的都要5块钱一个还瞬间被卖光，那些发国难财的人良心不痛吗</span>', '<span class="ctt">我大贵州当年非典也不怕，再次证明折耳根对传染病简直是神药般的存在</span>', '<span class="ctt">回复<a href="/n/%E5%85%AC%E5%AD%90%E6%97%A0%E7%90%8A">@公子无琊</a>:请吃吗？在你家楼下</span>', '<span class="ctt">回复<a href="/n/%E6%99%AF%E9%98%B3%E9%98%B3%E9%98%B3%E9%98%B3%E9%98%B3">@景阳阳阳阳阳</a>:不要打打广告，现在都想去了</span>', '<span class="ctt">为什么不更新了</span>', '<span class="ctt">今天怎么还没数据?</span>', '<span class="ctt">中国加油，河南挺住啊</span>', '<span class="ctt">戴口罩，戴口罩，戴口罩 不串门，不串门，不串门</span>', '<span class="ctt">回复<a href="/n/%E5%9C%86%E5%B0%8F%E5%9C%86%E7%8C%AA">@圆小圆猪</a>:感谢这些理性的湖北同胞们，我们因你们而安心，湖北加油！[加油]</span>', '<span class="ctt">鸡屁股加油</span>']['<span class="ctt">回复<a href="/n/%E4%B8%80%E8%B7%AF%E4%B8%8A%E6%9C%89%E4%BD%A0ZL">@一路上有你ZL</a>:天命圈加油💪</span>', '<span class="ctt">今天的图怎么还没有</span>', '<span class="ctt">西藏稳住</span>', '<span class="ctt">今天的数据是多少</span>', '<span class="ctt">为什么不更新啊</span>', '<span class="ctt">广东浙江最先启动一级响应，最先分离毒株，最红最严重。<img alt="[笑cry]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_xiaoku-d320324f00.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">跑毒冠军西藏！希望你好好的！稳住呀</span>', '<span class="ctt">回复<a href="/n/%E5%B0%8F%E5%B0%8F%E8%A5%BF%E6%9F%9Axy">@小小西柚xy</a>:浙江好难<img alt="[泪]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_lei-1b4b02f8b1.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">今天这个标题怎么没有热搜了！</span>']['<span class="ctt">回复<a href="/n/wuli%E7%BE%8E%E5%84%BF">@wuli美儿</a>:贵州又折耳根护体</span>', '<span class="ctt">西藏挺住！</span>', '<span class="ctt">贵州折耳根护体</span>', '<span class="ctt">贵州还好啊</span>', '<span class="ctt">更新呀</span>', '<span class="ctt">回复<a href="/n/%E5%9C%86%E5%B0%8F%E5%9C%86%E7%8C%AA">@圆小圆猪</a>:螺蛳粉给热干面加油</span>', '<span class="ctt">回复<a href="/n/%E8%BF%9C%E6%96%B924924">@远方24924</a>:嗯呐 <img alt="[可爱]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_keai-7a5bf88086.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/osyeou">@osyeou</a>:乖</span>']['<span class="ctt">云南挺住</span>', '<span class="ctt">西藏是净土</span>', '<span class="ctt">我云南怎么就比之前红了点？？？？我的菌子呢？？？怎么回事！！！</span>', '<span class="ctt">加油武汉，加油中国，谢谢一线奋战的卫士们，为了更好的明天，你们幸苦了</span>', '<span class="ctt">回复<a href="/n/%E6%B0%94%E6%AD%BB%E4%BD%A0%E5%A5%BD%E5%8E%8B%E5%8A%9B">@气死你好压力</a>:一百多确诊才深红</span>', '<span class="ctt">回复<a href="/n/%E5%8F%AA%E6%98%AF%E5%9C%A8%E8%B7%AF%E8%BF%87ing">@只是在路过ing</a>:我喜欢河南，可能她还在吧</span>', '<span class="ctt">回复<a href="/n/%E7%BD%91%E7%98%BE%E5%B0%91%E5%A5%B3%E5%B0%8F%E7%BD%97%E5%90%8C%E5%AD%A6">@网瘾少女小罗同学</a>:莫挨老子</span>', '<span class="ctt">求转发第一条武汉博文</span>']['<span class="ctt">求转发第一条武汉博文。</span>', '<span class="ctt">回复<a href="/n/HUANGZYanA">@HUANGZYanA</a>:牛肉面给热干面加油 武汉人没错 只不过 错的人 错的事刚好在武汉  加油 一定会挺过去的</span>', '<span class="ctt">回复<a href="/n/%E8%92%99%E7%8B%AC">@蒙独</a>:根本没听说西藏有，麻烦别胡说</span>', '<span class="ctt">贵州加油，贵州本来就是偏远地区，一旦发生，医药物资肯定跟不上，所以贵州坚持住，别出门<img alt="[作揖]" src="//h5.sinaimg.cn/m/emoticon/icon/others/h_zuoyi-cb12e18fd5.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">数据太离谱了，其实真相远远超过大家想象……武汉加油💪🏻白衣天使们挺住，一切都会好起来的！</span>', '<span class="ctt"><a href="/n/%E6%B2%B3%E8%B1%9A%E4%BB%99%E7%8C%AA">@河豚仙猪</a></span>', '<span class="ctt">回复<a href="/n/%E7%BD%91%E7%98%BE%E5%B0%91%E5%A5%B3%E5%B0%8F%E7%BD%97%E5%90%8C%E5%AD%A6">@网瘾少女小罗同学</a>:贵州太可怕了 被包围了<img alt="[允悲]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_yunbei-9aa3c436a4.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">万万没想到深色的居然越来越多<img alt="[泪]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_lei-1b4b02f8b1.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E5%81%B6%E5%83%8F%E9%92%9F%E5%8D%97%E5%B1%B1">@偶像钟南山</a>:<a href="/n/sayyousayme9">@sayyousayme9</a></span>', '<span class="ctt">包邮区挺住！<img alt="[可怜]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_kelian-3e00ccdc26.png" style="width:1em; height:1em;" /></span>']['<span class="ctt">西藏挺住！</span>', '<span class="ctt">贵州挺住！折耳根茅台酒老干妈洋芋粑丝娃娃护体呜呜呜！都要挺住😭</span>', '<span class="ctt">大家看那条深色线，基本上是京广铁路人群扩散主要干道和江苏经济发达地区。潜伏期14天，500万出武人员，推测3天后湖北向东和南全线飘红。河南严防死守，隔绝了蔓延势头，成为守护华北最后一道防线。河南不保，华北必红</span>', '<span class="ctt">回复<a href="/n/%E5%8D%81%E5%9B%9B%E6%9B%A6%E7%8B%AE%E5%AD%90%E7%8B%97">@十四曦狮子狗</a>:调侃了<img alt="[允悲]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_yunbei-9aa3c436a4.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">中国红不是这样红的<img alt="[悲伤]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_beishang-f8d6de06c8.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E7%BD%91%E7%98%BE%E5%B0%91%E5%A5%B3%E5%B0%8F%E7%BD%97%E5%90%8C%E5%AD%A6">@网瘾少女小罗同学</a>:周围全部是大红勒  还有深红  不晓得茅台消毒行不行<img alt="[允悲]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_yunbei-9aa3c436a4.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E5%9C%86%E5%B0%8F%E5%9C%86%E7%8C%AA">@圆小圆猪</a>:等你们好了，来我们这吃涮羊肉，欢迎<img alt="[爱你]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_aini-4a23c0524a.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">河南已经沦陷了<img alt="[泪]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_lei-1b4b02f8b1.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">疑似病例比确诊的数量大好多</span>']['<span class="ctt">回复<a href="/n/%E6%88%91%E5%96%9C%E6%AC%A2%E5%90%83%E7%B3%96%E9%86%8B%E8%8F%A0%E8%90%9D">@我喜欢吃糖醋菠萝</a>:在家呆着吧，非常时期，远离所有人</span>', '<span class="ctt">回复<a href="/n/%E6%BB%9F%E5%84%BF%E6%BD%B4%E6%BD%B4">@滟儿潴潴</a>:每个人都在家呆着吧，尽量不要出门，出门一定戴口罩</span>', '<span class="ctt">河南挺住！！！ 中国加油！！！ <img alt="[米奇比心]" src="//h5.sinaimg.cn/m/emoticon/icon/movies/mickey_01-f93c4eac57.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E8%92%99%E7%8B%AC">@蒙独</a>:你有毒吧  隐瞒实情谁担的了责任</span>', '<span class="ctt">回复<a href="/n/%E7%BD%91%E7%98%BE%E5%B0%91%E5%A5%B3%E5%B0%8F%E7%BD%97%E5%90%8C%E5%AD%A6">@网瘾少女小罗同学</a>:莫挨老子！<img alt="[偷乐]" src="//h5.sinaimg.cn/m/emoticon/icon/lxh/lxh_toule-d37aa91a7d.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">看看武汉封城前的大数据，就知道为什么颜色加深的地方是那些地方。<img alt="[泪]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_lei-1b4b02f8b1.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E5%BF%AB%E4%B9%90%E7%9A%84%E5%B0%8F%E8%9C%9C%E8%9C%821992">@快乐的小蜜蜂1992</a>:我得罪你了？？？？<img alt="[微笑]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_hehe-039d0a6a8a.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">这只鸡发烧了，希望她尽快好起来🙏🙏🙏</span>', '<span class="ctt">貴州加油！挺住！！！不要再加了</span>', '<span class="ctt">西藏挺住🙏</span>']['<span class="ctt">回复<a href="/n/%E5%B8%8C%E8%8E%AB%E7%92%83%E7%90%89%E8%8B%8F">@希莫璃琉苏</a>:<img alt="[笑cry]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_xiaoku-d320324f00.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">江西夹在中间瑟瑟发抖</span>', '<span class="ctt">福建，挺住！</span>', '<span class="ctt">明天早上就3000多了</span>', '<span class="ctt">回复<a href="/n/%E7%BD%91%E7%98%BE%E5%B0%91%E5%A5%B3%E5%B0%8F%E7%BD%97%E5%90%8C%E5%AD%A6">@网瘾少女小罗同学</a>:不听不听 肺炎念经</span>', '<span class="ctt">回复<a href="/n/%E6%9E%97%E9%B9%A4%E7%BB%87">@林鹤织</a>:有的医院都需要社会捐助了<img alt="[允悲]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_yunbei-9aa3c436a4.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E6%9E%97%E9%B9%A4%E7%BB%87">@林鹤织</a>:湖南医院也缺</span>']['<span class="ctt">西藏挺住</span>', '<span class="ctt">江西挺住<img alt="[中国赞]" src="//h5.sinaimg.cn/m/emoticon/icon/others/d_chnlike-2c6f482dac.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">中国加油</span>', '<span class="ctt">祝各位  健健康康  平平安安   记得随时佩戴好口罩等防护。<img alt="[doge]" src="//h5.sinaimg.cn/m/emoticon/icon/others/d_doge-861403219c.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">加油 🙏</span>', '<span class="ctt">回复<a href="/n/%E6%83%B3%E8%A6%81%E5%B0%8F%E9%9B%A8%E7%9A%84%E6%98%A5%E6%99%93">@想要小雨的春晓</a>:看看被空投了多少次，虽然我不是浙江人，我家离浙江就隔一条河！</span>', '<span class="ctt">回复<a href="/n/%E6%A9%99%E6%9F%91%E6%A9%98%E6%9F%A0">@橙柑橘柠</a>:110个武汉人不是送到萧山机场的么？什么玩意儿！</span>']['<span class="ctt">回复<a href="/n/%E5%9C%86%E5%B0%8F%E5%9C%86%E7%8C%AA">@圆小圆猪</a>:没人管浙江了，空投多少次了？</span>', '<span class="ctt">回复<a href="/n/%E7%BC%B6%E5%A4%AC%E5%8C%9A">@缶夬匚</a>:洞庭湖很小确实没错，但湖南湖北确实是这么划分的，长江和湖南确实没挨边，这些我都没说错</span>', '<span class="ctt">可怜的浙江都紫成猪肝色了</span>', '<span class="ctt">浙江是鸡胸脯肉 所以要搞我们？谢谢你妈的空头 代表浙江感谢你们老祖宗 他们会爬起来找你们的 隔壁还没红 大老远的浙江先红了  减肥的都吃鸡胸脯肉吧</span>', '<span class="ctt">借楼问问，今天为啥没有更新甘肃的数据呢<img alt="[费解]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_feijie-bac8e40ab4.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E8%AF%97%E8%AF%9755985">@诗诗55985</a>:请看看地图，洞庭湖只多大</span>', '<span class="ctt">我贵州被围得死死的<img alt="[抓狂]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_zhuakuang-fd744b17b5.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E4%B9%94%E4%B9%94%E4%BC%98%E5%85%94">@乔乔优兔</a>:对的呢</span>', '<span class="ctt">回复<a href="/n/%E4%B8%80%E8%B7%AF%E4%B8%8A%E6%9C%89%E4%BD%A0ZL">@一路上有你ZL</a>:肺炎去高原 祖上齐团圆</span>']['<span class="ctt">祈祷这次瘟疫赶紧熬过去</span>', '<span class="ctt">回复<a href="/n/OrAnge%E6%A9%98%E5%AD%90%E5%90%96">@OrAnge橘子吖</a>:你是不是斗只会一句“屁事多”？故意找决迈？我说慌跟我回不回重庆有好大冲突的？举了例子给你看还看球不懂？戾气真重嗷<img alt="[费解]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_feijie-bac8e40ab4.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E4%B9%94%E4%B9%94%E4%BC%98%E5%85%94">@乔乔优兔</a>:屁事真多，回到家嘛？</span>', '<span class="ctt">回复<a href="/n/%E7%BD%91%E7%98%BE%E5%B0%91%E5%A5%B3%E5%B0%8F%E7%BD%97%E5%90%8C%E5%AD%A6">@网瘾少女小罗同学</a>:贵州7例了  挺住呀！</span>', '<span class="ctt">回复<a href="/n/OrAnge%E6%A9%98%E5%AD%90%E5%90%96">@OrAnge橘子吖</a>:？看不懂我说的话迈还是说你故意的？话都给你摆到勒点儿了的嘛？</span>', '<span class="ctt">回复<a href="/n/%E4%B9%94%E4%B9%94%E4%BC%98%E5%85%94">@乔乔优兔</a>:那你还屁事多有着说话的时间早就回家了屁事多</span>', '<span class="ctt">回复<a href="/n/_%E7%90%B3%E6%9D%B08023">@_琳杰8023</a>:重庆这个红好像我的火锅红，别呀，我以后吃清汤行么？</span>', '<span class="ctt">回复<a href="/n/OrAnge%E6%A9%98%E5%AD%90%E5%90%96">@OrAnge橘子吖</a>:<img alt="[汗]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_han-0e7b8aa6d1.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">广东挺住，广州加油</span>']['<span class="ctt">回复<a href="/n/%E4%B9%94%E4%B9%94%E4%BC%98%E5%85%94">@乔乔优兔</a>:你不是很慌吗？</span>', '<span class="ctt">回复<a href="/n/%E5%9C%86%E5%B0%8F%E5%9C%86%E7%8C%AA">@圆小圆猪</a>:希望大家都好<img alt="[心]" src="//h5.sinaimg.cn/m/emoticon/icon/others/l_xin-6912791858.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E5%9C%86%E5%B0%8F%E5%9C%86%E7%8C%AA">@圆小圆猪</a>:加油💪我们共克难关</span>', '<span class="ctt">回复<a href="/n/OrAnge%E6%A9%98%E5%AD%90%E5%90%96">@OrAnge橘子吖</a>:我先回来不行？你管重庆出入境的？</span>', '<span class="ctt">回复<a href="/n/%E4%B9%94%E4%B9%94%E4%BC%98%E5%85%94">@乔乔优兔</a>:你现在回来就能上班吗？</span>', '<span class="ctt">回复<a href="/n/%E7%8C%AA%E7%8C%AAsos">@猪猪sos</a>:回复错了！抱歉<img alt="[二哈]" src="//h5.sinaimg.cn/m/emoticon/icon/others/d_erha-0fecc90ac1.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">贵州在夹缝中瑟瑟发抖啊，挺住!</span>', '<span class="ctt">回复<a href="/n/OrAnge%E6%A9%98%E5%AD%90%E5%90%96">@OrAnge橘子吖</a>:还要上班的嘛</span>', '<span class="ctt">回复<a href="/n/%E4%B9%94%E4%B9%94%E4%BC%98%E5%85%94">@乔乔优兔</a>:那就别回呗屁事多</span>']['<span class="ctt">回复<a href="/n/%E4%B8%8D%E4%BC%9A%E5%85%BB%E8%8A%B1%E7%9A%84%E7%85%AE%E5%A6%87">@不会养花的煮妇</a>:盘这么久，她之前肯定是麻麻赖赖的<img alt="[思考]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_sikao-c599fd085f.png" style="width:1em; height:1em;" /></span>', '<span class="ctt"><a href="/n/%E6%9E%97%E6%9E%ABJ">@林枫J</a></span>', '<span class="ctt">回复<a href="/n/%E7%84%A6%E7%B3%96%E9%A9%AC%E7%A5%BA%E5%A4%9A">@焦糖马祺多</a>:安徽加油啊，希望不是虚报的</span>', '<span class="ctt">西藏 稳住！</span>', '<span class="ctt">回复<a href="/n/_%E7%90%B3%E6%9D%B08023">@_琳杰8023</a>:重庆上升咋这么快呀？不喜欢这个颜色😭😭</span>', '<span class="ctt">我们重庆颜色变得好深，地盘不大咋上升这么快呀，😭😭</span>', '<span class="ctt">回复<a href="/n/%E7%8E%89%E7%B1%B3%E6%8E%92%E9%AA%A8%E6%B1%A4o3o">@玉米排骨汤o3o</a>:隔壁江苏发来慰问，苦了你们了</span>', '<span class="ctt">回复<a href="/n/%E5%96%83%E5%96%83%E8%B4%9F%E6%89%8B%E6%89%A3%E4%B8%9C%E7%AF%B13470">@喃喃负手扣东篱3470</a>:被武汉空投了能不多么，武汉肺炎人一飞机一飞机的送杭州，硬生生把浙江推上一级</span>', '<span class="ctt">回复<a href="/n/%E7%84%A6%E7%B3%96%E9%A9%AC%E7%A5%BA%E5%A4%9A">@焦糖马祺多</a>:浙江被武汉空投害的直接变一级</span>', '<span class="ctt">回复<a href="/n/%E5%B0%8F%E5%B0%8F%E8%A5%BF%E6%9F%9Axy">@小小西柚xy</a>:无语武汉人为什么给浙江疯狂空调？投西藏让他们死绝再埋武汉不行？</span>']['<span class="ctt">广西挺住！</span>', '<span class="ctt">回复<a href="/n/%E4%BB%8A%E5%A4%A9%E5%8F%AF%E4%BB%A5%E8%AF%B7%E6%88%91%E5%90%83%E9%A5%AD%E5%90%97">@今天可以请我吃饭吗</a>:你不知道封城的那天有多少从武汉连夜跑到湖南的？？？就这几天</span>', '<span class="ctt">西藏瑟瑟发抖</span>', '<span class="ctt">本来我们湖南是比较晚确诊首例的，结果一下子变这么黑了，太心疼了<img alt="[泪]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_lei-1b4b02f8b1.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">西藏不能红</span>', '<span class="ctt">回复<a href="/n/%E7%BE%8E%E5%A5%B3%E4%B8%8D%E8%A6%81%E5%A4%B1%E7%9C%A0">@美女不要失眠</a>:贵州加油<img alt="[泪]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_lei-1b4b02f8b1.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E7%BD%91%E7%98%BE%E5%B0%91%E5%A5%B3%E5%B0%8F%E7%BD%97%E5%90%8C%E5%AD%A6">@网瘾少女小罗同学</a>:啊啊啊啊啊啊我大贵州<img alt="[泪]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_lei-1b4b02f8b1.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">安徽我知道的就不止这个颜色啦，政府能不能上点心！！！</span>', '<span class="ctt">人好渺小</span>']['<span class="ctt">江西挺住啊</span>', '<span class="ctt">回复<a href="/n/%E7%88%B1%E6%9F%AF%E6%9C%AC%E7%9A%84%E6%91%87%E6%BB%9A%E8%BD%AF%E5%A6%B9">@爱柯本的摇滚软妹</a>:江西人民瑟瑟发抖，我爸让我元宵过后再回珠海上班<img alt="[失望]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_shiwang-7925938d93.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E5%9C%86%E5%B0%8F%E5%9C%86%E7%8C%AA">@圆小圆猪</a>:保重身体<img alt="[心]" src="//h5.sinaimg.cn/m/emoticon/icon/others/l_xin-6912791858.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">坚持</span>', '<span class="ctt">吉林挺住啊</span>', '<span class="ctt">真是红的一片发黑！求求老天爷赶快过去吧<img alt="[泪]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_lei-1b4b02f8b1.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E7%BD%91%E7%98%BE%E5%B0%91%E5%A5%B3%E5%B0%8F%E7%BD%97%E5%90%8C%E5%AD%A6">@网瘾少女小罗同学</a>:加油，贵州<img alt="[爱你]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_aini-4a23c0524a.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">西藏挺住</span>', '<span class="ctt">请问怎么统计的湾湾？</span>', '<span class="ctt">回复<a href="/n/%E5%9C%86%E5%B0%8F%E5%9C%86%E7%8C%AA">@圆小圆猪</a>:北京烤鸭给热干面加油<img alt="[憧憬]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_xingxingyan-06a3ca0ae4.png" style="width:1em; height:1em;" /></span>']['<span class="ctt">回复<a href="/n/%E8%BF%AA%E9%B2%A8%E6%88%91">@迪鲨我</a>:那你们那边管得可以，之前一个小姐妹说她们那边还办酒。她准备举报～</span>', '<span class="ctt">回复<a href="/n/%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%A6%96%E6%80%AA%E8%AF%B7%E5%86%B2%E6%88%91%E6%9D%A5">@好看的妖怪请冲我来</a>:那不错，我们群里一个妹妹说她们那边还有个武汉回来，到处串门，于是我们教她举报了！<img alt="[微笑]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_hehe-039d0a6a8a.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E5%A4%A2%E7%95%AA%E5%9C%B0%E4%B8%8E%E5%AF%BF%E9%99%90%E5%A4%A2">@夢番地与寿限夢</a>:<a href="/n/%E8%80%B6%E5%95%B5%E5%BC%80%E5%BF%83">@耶啵开心</a></span>', '<span class="ctt">回复<a href="/n/%E5%92%B8%E8%9B%8B%E9%BB%84%E5%95%B5%E5%95%B5%E5%85%94%E5%8F%BD%E5%8C%85">@咸蛋黄啵啵兔叽包</a>:浙江好像一开始没这么多</span>', '<span class="ctt">回复 <a href="/n/%E6%A3%AEai%E8%8B%8F%E5%B9%95%E9%81%AE">@森ai苏幕遮</a>:试剂盒是多了啊，具备了确诊的条件。但是现实情况根据传染指数确实是越来越多的人感染啊，我说的没错啊</span>', '<span class="ctt">没有具体数字了吗？</span>', '<span class="ctt">回复<a href="/n/%E5%9C%86%E5%B0%8F%E5%9C%86%E7%8C%AA">@圆小圆猪</a>:好！要平安健康喏！<img alt="[心]" src="//h5.sinaimg.cn/m/emoticon/icon/others/l_xin-6912791858.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">那些吃野味的，你们吃的贩卖的时候可曾想过天道轮回，现在有多少父母在担心自己外出打工被困在武汉的孩子，有多少马上举行婚礼的情侣取消了自己人生中重要的一天，有多少爱人家人分别两地，多少医生护士每天提心吊胆还要奋战在一线。</span>']['<span class="ctt">广东一夜变深红<img alt="[悲伤]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_beishang-f8d6de06c8.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">贵州挺住！</span>', '<span class="ctt">我大河南处于中间好委屈，我们都要加油，不出门就是为国家做贡献了。</span>', '<span class="ctt">重庆离武汉那么近，而且数据也在快速激增，然而我们到处都买不到口罩，哪怕一次性的，大家援助武汉的同时，可不可以也匀点给我们重庆？现在急需口罩🙏🙏🙏🙏😷</span>', '<span class="ctt">回复<a href="/n/24%E5%B2%81%E7%9A%84%E8%80%81%E5%B9%B4%E7%BD%91%E5%8F%8Blisa">@24岁的老年网友lisa</a>:其实之前已经有很多人感染了，但是没有试剂盒确诊不了，湖北7家定点医院每天人山人海，朋友圈很多人求医无门，每天确诊人数才几十个，说出来也不可能。现在省外爆发的大部分是过了潜伏期包括这两天空投人数，数量在增加但是呈现人数猛增还是在湖北，说明湖北的试剂盒到了，那些之前排队熬命的都确诊了</span>', '<span class="ctt">这不是我想看到的中国红</span>', '<span class="ctt">回复<a href="/n/%E6%83%B3%E8%A6%81%E5%B0%8F%E9%9B%A8%E7%9A%84%E6%98%A5%E6%99%93">@想要小雨的春晓</a>:没呀</span>', '<span class="ctt">回复<a href="/n/%E6%9C%AA%E6%9D%A5%E5%BE%88%E7%BE%8E%E5%A5%BDT_T%E6%89%80%E4%BB%A5%E8%A6%81%E5%8A%A0%E6%B2%B9">@未来很美好T_T所以要加油</a>:在北京往上就是河北，进了山海关东三省也跑不了了<img alt="[黑线]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_heixian-bde08b426c.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/emmvalon">@emmvalon</a>:先担心你同学吧</span>']['<span class="ctt">中国加油！</span>', '<span class="ctt">西藏一定要稳住啊</span>', '<span class="ctt">回复<a href="/n/%E4%BF%BA%E4%BB%AC%E5%B0%8F%E4%B8%A4%E5%8F%AA">@俺们小两只</a>:西藏是咱们大中华唯一一片没被病毒浸染的净土啊！</span>', '<span class="ctt">回复<a href="/n/%E5%8D%83%E9%BB%9B%E6%B1%90Rebecca">@千黛汐Rebecca</a>:浙江独立于周围的红黑，太惨了</span>', '<span class="ctt">西藏挺住！！！！！</span>', '<span class="ctt">太快了！好可怕！</span>', '<span class="ctt">移民西藏算了，从此山高水远的</span>', '<span class="ctt">回复<a href="/n/%E6%88%91%E6%98%AF%E6%A0%80%E6%B5%B7123">@我是栀海123</a>:为啥</span>']['<span class="ctt">好害怕😱</span>', '<span class="ctt">只剩下鸡屁股那一点儿🙁什么时候才能过去☹️☹️☹️☹️</span>', '<span class="ctt">从来没有像现在这样这么爱西藏 西藏 挺住 我们爱你</span>', '<span class="ctt">这一幕幕红色真是让人痛心<img alt="[伤心]" src="//h5.sinaimg.cn/m/emoticon/icon/others/l_shangxin-934f730572.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E6%9D%A8%E5%B8%85040820">@杨帅040820</a>:江苏南京的</span>', '<span class="ctt">越来越多了。。。</span>', '<span class="ctt">妈耶，<img alt="[泪]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_lei-1b4b02f8b1.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E4%B8%80%E8%B7%AF%E4%B8%8A%E6%9C%89%E4%BD%A0ZL">@一路上有你ZL</a>:肺炎去西藏简直自杀行为哈哈哈哈</span>', '<span class="ctt">全中国一定都会变成西藏的颜色！西藏也肯定会永远保持着现在的颜色！中国一定要加油！！西藏一定得稳住！！之后的2020一定会慢慢好起来的！🙏🙏🙏</span>', '<span class="ctt">回复<a href="/n/%E5%8F%AA%E6%98%AF%E5%9C%A8%E8%B7%AF%E8%BF%87ing">@只是在路过ing</a>:河南 小小的一个县已经好几例 真的希望快点熬过去</span>']['<span class="ctt">浙江实惨<img alt="[微笑]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_hehe-039d0a6a8a.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">口罩24.5元一个🤦🏻♂️</span>', '<span class="ctt">回复<a href="/n/%E5%92%B8%E8%9B%8B%E9%BB%84%E5%95%B5%E5%95%B5%E5%85%94%E5%8F%BD%E5%8C%85">@咸蛋黄啵啵兔叽包</a>:为什么是湖北人逃了？？？难道不是其他人省反乡了吗</span>', '<span class="ctt">新疆挺住<img alt="[悲伤]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_beishang-f8d6de06c8.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">这个曲线好吓人😢</span>', '<span class="ctt">回复<a href="/n/%E5%92%B8%E8%9B%8B%E9%BB%84%E5%95%B5%E5%95%B5%E5%85%94%E5%8F%BD%E5%8C%85">@咸蛋黄啵啵兔叽包</a>:太可怕了这个颜色<img alt="[泪]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_lei-1b4b02f8b1.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/Sepesttoi">@Sepesttoi</a>:不是湖北人逃到了周围，是在武汉工作的人都回家了</span>', '<span class="ctt">欠兩個零</span>', '<span class="ctt">回复<a href="/n/%E5%9C%86%E5%B0%8F%E5%9C%86%E7%8C%AA">@圆小圆猪</a>:小笼包给热干面加油<img alt="[武汉加油]" src="//h5.sinaimg.cn/m/emoticon/icon/others/cw_wuhanjiayou-0e0df8741a.png" style="width:1em; height:1em;" /></span>']['<span class="ctt">揪心</span>', '<span class="ctt">陕西加油</span>', '<span class="ctt">中国加油，还有守护最后鸡屁股！</span>', '<span class="ctt">回复<a href="/n/%E5%9F%8E%E9%9A%85%E4%B9%8B%E5%8D%97">@城隅之南</a>:我在渝北都没买到</span>', '<span class="ctt">回复<a href="/n/%E5%92%B8%E8%9B%8B%E9%BB%84%E5%95%B5%E5%95%B5%E5%85%94%E5%8F%BD%E5%8C%85">@咸蛋黄啵啵兔叽包</a>:这几天光注意河南的硬核了，没想到硬核着还是这么多，必须硬核啊<img alt="[泪]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_lei-1b4b02f8b1.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">江西加油，挺住</span>', '<span class="ctt">回复<a href="/n/%E7%BD%91%E7%98%BE%E5%B0%91%E5%A5%B3%E5%B0%8F%E7%BD%97%E5%90%8C%E5%AD%A6">@网瘾少女小罗同学</a>:我贵州人在浙江没回去过年，我在浙江瑟瑟发抖的关心着贵州的家人</span>', '<span class="ctt">回复<a href="/n/%C2%B7%E7%AA%91%E5%AD%90%C2%B7">@·窑子·</a>:我买不到口罩</span>', '<span class="ctt">希望痊愈人数可以早日战胜死亡人数！</span>', '<span class="ctt"><a href="/n/%E4%BD%A0%E5%BD%93%E6%88%91%E8%80%8D%E5%88%80%E5%93%87">@你当我耍刀哇</a></span>']['<span class="ctt">湖南人哭了<img alt="[悲伤]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_beishang-f8d6de06c8.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">广东我求求你争点气</span>', '<span class="ctt">看看广东吧<img alt="[泪]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_lei-1b4b02f8b1.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">回复<a href="/n/%E4%B8%80%E4%B8%AA%E4%B8%8D%E6%99%AE%E9%80%9A%E7%9A%84ikun">@一个不普通的ikun</a>:啥时候，这种可以举报吗？让相关部门来检查一下</span>', '<span class="ctt">希望国家在疫情控制后严查全国野生动物市场，制定相关法律法规，对一切乱纪违法分子绳之以法！给全国人民一个交代！</span>', '<span class="ctt">回复<a href="/n/%E5%9C%86%E5%B0%8F%E5%9C%86%E7%8C%AA">@圆小圆猪</a>:<img alt="[泪]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_lei-1b4b02f8b1.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">中国加油，有难一起扛，相信一切都会好起来的。工作人员幸苦了</span>', '<span class="ctt">指数函数<img alt="[微笑]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_hehe-039d0a6a8a.png" style="width:1em; height:1em;" /></span>', '<span class="ctt">西藏一枝独秀<img alt="[笑cry]" src="//h5.sinaimg.cn/m/emoticon/icon/default/d_xiaoku-d320324f00.png" style="width:1em; height:1em;" /></span>']
+:【
+感谢各省同胞支援，湖北人民感谢你们，疫情重区的冬天，因为有你们，很温暖。这几天看到各省同胞支援的消息真的超级感动。等我们好了，欢迎各省同胞来看看，我们带你们去吃油焖大虾，热干面，去逛江滩，坐轮渡，去看看江湖人间烟火气。我们会乖乖呆在家里，不能冲在第一线，也绝不给政府，给社会添麻烦
+西藏，挺住！
+西藏稳住
+6
+私信你了，记得查看哦
+:福建，在夹缝中生存，挺住
+:地震了
+:折耳根护体
+:我们浙江真的太惨了
+:是你干的
+:深圳
+:【
+感谢各省同胞支援，湖北人民感谢你们，疫情重区的冬天，因为有你们，很温暖。这几天看到各省同胞支援的消息真的超级感动。等我们好了，欢迎各省同胞来看看，我们带你们去吃油焖大虾，热干面，去逛江滩，坐轮渡，去看看江湖人间烟火气。我们会乖乖呆在家里，不能冲在第一线，也绝不给政府，给社会添麻烦
+西藏，挺住！
+西藏稳住
+6
+私信你了，记得查看哦
+:福建，在夹缝中生存，挺住
+:地震了
+:折耳根护体
+:我们浙江真的太惨了
+:是你干的
+:深圳
+:靠得是数据分析！闭着眼睛乱说怎么可能有准头？
+:一句话三个
+:哇 行嘛 我想太多
+:看今天数据！让你再叫！
+:如果你没有骂我的意思 那麻烦你表达清楚 不要把话写得那么让人误解 毕竟是网络发言 谢谢
+ 过年期间的机票退不了。客服无人接听。人工也不回复。退票无门。你们这些人发国难财真的心安理得吗？特殊时期大家都很难。为什么航空公司和售票平台没有一点责任感？我们要求退票。请快速处理
+我用我的命换西藏的安全该多好
+加油
+河南加油！！！
+东航900元机票要收600元手续费，这是趁人病要人命啊，你们赚不到钱就这样赚
+:湖南至今没有一个热搜，新增那么多
+希望大家关注一下兰州市，口罩想都别想，还预防，真实难为我们了。
+东北加油
+昨天的没有啊，今天的啥时候出来
+辽宁挺住！！！
+希望可以看到28号的疫区分布图
+折耳根护体！贵州挺住[加油]不想再看到有新疫情出现了，各个地区的同胞们要挺住🙏
+贵州撑住！我们能赢！
+最后倔强的鸡屁股
+:加油，亲，我们同在
+西藏肯定是开挂了，怎么做到的
+:谢谢 有被笑到哈哈哈哈哈
+:我没有急啊  需要急什么吗  不是你在这儿跟我表演狗急跳墙吗
+:笑死我了你急什么？老子遵义的满大街都戴口罩 
+:嗯，是确诊人数增多，也是感染人数增多，但是感染的百分之八九十是25号之前就感染了，只是没有确诊没有报道出来。现在全国基本都不出门了，封城封村的，传染途径相对之前少了很多，我家附近也确诊了很多例，但是保证不出门就没那么恐慌
+:你妈没教会你说话就别出来说话了行嘛？ 只有贵阳看到的戴口罩的人多一些，其他很多地方尤其是镇下很多都没戴 你没看到不代表别人没看到 我一字一句没有任何污蔑和不好的意思  张嘴就跟我口吐芬芳  读书读到狗肚子里去了？
+我贵州太不容易了，都快要被黑红包围了
+:加油啊(ง •̀_•́)ง
+重庆也需要物资，重庆也需要物资，重庆也需要物资，有没有人看见呀！大家进微博
+ 看看！
+:小破湘西都有了，没什么说的！
+:折耳根给热干面加油
+祖国，加油！
+广东都红成这样了，也没想着延期复工
+:洛阳是无敌的
+:苗疆巫术护体！
+贵州最后的倔强：你不要过来啊啊啊啊啊啊啊啊！！！
+:假期肯定过比你有乐趣 没办法我也有指出你说的是一条屁话（你自己说的）的权利啊
+:我爱听谁听谁 您 管 的 着 吗？
+我是双峰县青树坪镇一村民，到现在正月初四也从未看到村里有干部和领导过来通知和宣传此事件。导致村里没都没有人重视都没戴口罩，每天好多人都聚集在一起。初三初四还有从长沙，湖北回来的人。
+死亡病例越来越多，增速吓人，前天50多 昨天80，今天100多了。
+:湖南太难了
+:驴肉火烧给热干面加油！
+麻烦工作做细一点，把1000和100的颜色区分开呀！
+:不能一棒子打死所有人吧？你确定不是在武汉读书或者打工的外地人跑回去过年的嘛？ 武汉本地人的家就在那儿还需要跑出去过年？
+重庆都成了重灾区了吗？
+:贵州老乡们 我们茅台消毒吧
+:？你在想屁吃 我们市街上都是戴口罩的 你真的是贵州的？
+:主要是河南人多还密集
+请人民日报关注各地出现的捡拾口罩二次包装的恶劣行为！建议警方应该巡逻治理！！这种行为比小偷流氓盗窃的隐患危害给大！
+今天好不容易出太阳恍惚间以为有希望
+:父母打麻将的劝都劝不住，有其他人在旁边聊天，非要吃饭，那我怕死只有不吃了
+看到重庆红的发黑很是担心，大渡口有有六个人被确诊了，可是我父母都还没有买到口在垫江药店一到货就不到十分钟就没了，还是每人限量的很担心啊。只好每天打电话告诉我妈我他们不要出去。口罩和酒精都买不到了有些黑心商家一个一次性口罩两层的都要5块钱一个还瞬间被卖光，那些发国难财的人良心不痛吗
+我大贵州当年非典也不怕，再次证明折耳根对传染病简直是神药般的存在
+:请吃吗？在你家楼下
+:不要打打广告，现在都想去了
+为什么不更新了
+今天怎么还没数据?
+中国加油，河南挺住啊
+戴口罩，戴口罩，戴口罩 不串门，不串门，不串门
+:感谢这些理性的湖北同胞们，我们因你们而安心，湖北加油！[加油]
+鸡屁股加油
+:天命圈加油💪
+今天的图怎么还没有
+西藏稳住
+今天的数据是多少
+为什么不更新啊
+广东浙江最先启动一级响应，最先分离毒株，最红最严重。
+跑毒冠军西藏！希望你好好的！稳住呀
+:浙江好难
+今天这个标题怎么没有热搜了！
+:贵州又折耳根护体
+西藏挺住！
+贵州折耳根护体
+贵州还好啊
+更新呀
+:螺蛳粉给热干面加油
+:嗯呐 
+:乖
+云南挺住
+西藏是净土
+我云南怎么就比之前红了点？？？？我的菌子呢？？？怎么回事！！！
+加油武汉，加油中国，谢谢一线奋战的卫士们，为了更好的明天，你们幸苦了
+:一百多确诊才深红
+:我喜欢河南，可能她还在吧
+:莫挨老子
+求转发第一条武汉博文
+求转发第一条武汉博文。
+:牛肉面给热干面加油 武汉人没错 只不过 错的人 错的事刚好在武汉  加油 一定会挺过去的
+:根本没听说西藏有，麻烦别胡说
+贵州加油，贵州本来就是偏远地区，一旦发生，医药物资肯定跟不上，所以贵州坚持住，别出门
+数据太离谱了，其实真相远远超过大家想象……武汉加油💪🏻白衣天使们挺住，一切都会好起来的！
+:贵州太可怕了 被包围了
+万万没想到深色的居然越来越多
+包邮区挺住！
+西藏挺住！
+贵州挺住！折耳根茅台酒老干妈洋芋粑丝娃娃护体呜呜呜！都要挺住😭
+大家看那条深色线，基本上是京广铁路人群扩散主要干道和江苏经济发达地区。潜伏期14天，500万出武人员，推测3天后湖北向东和南全线飘红。河南严防死守，隔绝了蔓延势头，成为守护华北最后一道防线。河南不保，华北必红
+:调侃了
+中国红不是这样红的
+:周围全部是大红勒  还有深红  不晓得茅台消毒行不行
+:等你们好了，来我们这吃涮羊肉，欢迎
+河南已经沦陷了
+疑似病例比确诊的数量大好多
+:在家呆着吧，非常时期，远离所有人
+:每个人都在家呆着吧，尽量不要出门，出门一定戴口罩
+河南挺住！！！ 中国加油！！！ 
+:你有毒吧  隐瞒实情谁担的了责任
+:莫挨老子！
+看看武汉封城前的大数据，就知道为什么颜色加深的地方是那些地方。
+:我得罪你了？？？？
+这只鸡发烧了，希望她尽快好起来🙏🙏🙏
+貴州加油！挺住！！！不要再加了
+西藏挺住🙏
+江西夹在中间瑟瑟发抖
+福建，挺住！
+明天早上就3000多了
+:不听不听 肺炎念经
+:有的医院都需要社会捐助了
+:湖南医院也缺
+西藏挺住
+江西挺住
+中国加油
+祝各位  健健康康  平平安安   记得随时佩戴好口罩等防护。
+加油 🙏
+:看看被空投了多少次，虽然我不是浙江人，我家离浙江就隔一条河！
+:110个武汉人不是送到萧山机场的么？什么玩意儿！
+:没人管浙江了，空投多少次了？
+:洞庭湖很小确实没错，但湖南湖北确实是这么划分的，长江和湖南确实没挨边，这些我都没说错
+可怜的浙江都紫成猪肝色了
+浙江是鸡胸脯肉 所以要搞我们？谢谢你妈的空头 代表浙江感谢你们老祖宗 他们会爬起来找你们的 隔壁还没红 大老远的浙江先红了  减肥的都吃鸡胸脯肉吧
+借楼问问，今天为啥没有更新甘肃的数据呢
+:请看看地图，洞庭湖只多大
+我贵州被围得死死的
+:对的呢
+:肺炎去高原 祖上齐团圆
+祈祷这次瘟疫赶紧熬过去
+:你是不是斗只会一句“屁事多”？故意找决迈？我说慌跟我回不回重庆有好大冲突的？举了例子给你看还看球不懂？戾气真重嗷
+:屁事真多，回到家嘛？
+:贵州7例了  挺住呀！
+:？看不懂我说的话迈还是说你故意的？话都给你摆到勒点儿了的嘛？
+:那你还屁事多有着说话的时间早就回家了屁事多
+:重庆这个红好像我的火锅红，别呀，我以后吃清汤行么？
+广东挺住，广州加油
+:你不是很慌吗？
+:希望大家都好
+:加油💪我们共克难关
+:我先回来不行？你管重庆出入境的？
+:你现在回来就能上班吗？
+:回复错了！抱歉
+贵州在夹缝中瑟瑟发抖啊，挺住!
+:还要上班的嘛
+:那就别回呗屁事多
+:盘这么久，她之前肯定是麻麻赖赖的
+:安徽加油啊，希望不是虚报的
+西藏 稳住！
+:重庆上升咋这么快呀？不喜欢这个颜色😭😭
+我们重庆颜色变得好深，地盘不大咋上升这么快呀，😭😭
+:隔壁江苏发来慰问，苦了你们了
+:被武汉空投了能不多么，武汉肺炎人一飞机一飞机的送杭州，硬生生把浙江推上一级
+:浙江被武汉空投害的直接变一级
+:无语武汉人为什么给浙江疯狂空调？投西藏让他们死绝再埋武汉不行？
+广西挺住！
+:你不知道封城的那天有多少从武汉连夜跑到湖南的？？？就这几天
+西藏瑟瑟发抖
+本来我们湖南是比较晚确诊首例的，结果一下子变这么黑了，太心疼了
+西藏不能红
+:贵州加油
+:啊啊啊啊啊啊我大贵州
+安徽我知道的就不止这个颜色啦，政府能不能上点心！！！
+人好渺小
+江西挺住啊
+:江西人民瑟瑟发抖，我爸让我元宵过后再回珠海上班
+:保重身体
+坚持
+吉林挺住啊
+真是红的一片发黑！求求老天爷赶快过去吧
+:加油，贵州
+西藏挺住
+请问怎么统计的湾湾？
+:北京烤鸭给热干面加油
+:那你们那边管得可以，之前一个小姐妹说她们那边还办酒。她准备举报～
+:那不错，我们群里一个妹妹说她们那边还有个武汉回来，到处串门，于是我们教她举报了！
+:浙江好像一开始没这么多
+回复 
+:试剂盒是多了啊，具备了确诊的条件。但是现实情况根据传染指数确实是越来越多的人感染啊，我说的没错啊
+没有具体数字了吗？
+:好！要平安健康喏！
+那些吃野味的，你们吃的贩卖的时候可曾想过天道轮回，现在有多少父母在担心自己外出打工被困在武汉的孩子，有多少马上举行婚礼的情侣取消了自己人生中重要的一天，有多少爱人家人分别两地，多少医生护士每天提心吊胆还要奋战在一线。
+广东一夜变深红
+贵州挺住！
+我大河南处于中间好委屈，我们都要加油，不出门就是为国家做贡献了。
+重庆离武汉那么近，而且数据也在快速激增，然而我们到处都买不到口罩，哪怕一次性的，大家援助武汉的同时，可不可以也匀点给我们重庆？现在急需口罩🙏🙏🙏🙏😷
+:其实之前已经有很多人感染了，但是没有试剂盒确诊不了，湖北7家定点医院每天人山人海，朋友圈很多人求医无门，每天确诊人数才几十个，说出来也不可能。现在省外爆发的大部分是过了潜伏期包括这两天空投人数，数量在增加但是呈现人数猛增还是在湖北，说明湖北的试剂盒到了，那些之前排队熬命的都确诊了
+这不是我想看到的中国红
+:没呀
+:在北京往上就是河北，进了山海关东三省也跑不了了
+:先担心你同学吧
+中国加油！
+西藏一定要稳住啊
+:西藏是咱们大中华唯一一片没被病毒浸染的净土啊！
+:浙江独立于周围的红黑，太惨了
+西藏挺住！！！！！
+太快了！好可怕！
+移民西藏算了，从此山高水远的
+:为啥
+好害怕😱
+只剩下鸡屁股那一点儿🙁什么时候才能过去☹️☹️☹️☹️
+从来没有像现在这样这么爱西藏 西藏 挺住 我们爱你
+这一幕幕红色真是让人痛心
+:江苏南京的
+越来越多了。。。
+妈耶，
+:肺炎去西藏简直自杀行为哈哈哈哈
+全中国一定都会变成西藏的颜色！西藏也肯定会永远保持着现在的颜色！中国一定要加油！！西藏一定得稳住！！之后的2020一定会慢慢好起来的！🙏🙏🙏
+:河南 小小的一个县已经好几例 真的希望快点熬过去
+浙江实惨
+口罩24.5元一个🤦🏻♂️
+:为什么是湖北人逃了？？？难道不是其他人省反乡了吗
+新疆挺住
+这个曲线好吓人😢
+:太可怕了这个颜色
+:不是湖北人逃到了周围，是在武汉工作的人都回家了
+欠兩個零
+:小笼包给热干面加油
+揪心
+陕西加油
+中国加油，还有守护最后鸡屁股！
+:我在渝北都没买到
+:这几天光注意河南的硬核了，没想到硬核着还是这么多，必须硬核啊
+江西加油，挺住
+:我贵州人在浙江没回去过年，我在浙江瑟瑟发抖的关心着贵州的家人
+:我买不到口罩
+希望痊愈人数可以早日战胜死亡人数！
+湖南人哭了
+广东我求求你争点气
+看看广东吧
+:啥时候，这种可以举报吗？让相关部门来检查一下
+希望国家在疫情控制后严查全国野生动物市场，制定相关法律法规，对一切乱纪违法分子绳之以法！给全国人民一个交代！
+中国加油，有难一起扛，相信一切都会好起来的。工作人员幸苦了
+指数函数
+西藏一枝独秀

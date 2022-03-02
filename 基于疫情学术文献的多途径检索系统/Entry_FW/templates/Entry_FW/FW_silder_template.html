@@ -1,0 +1,87 @@
+{% load static %}
+
+<!-- Sidebar -->
+<ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+
+    <!-- Sidebar - Brand -->
+    <a class="sidebar-brand d-flex align-items-center justify-content-center" href="{% url 'Entry_FW:index' %}">
+        <div class="sidebar-brand-icon rotate-n-15">
+            {% comment %} <i class="fas fa-laugh-wink"></i> {% endcomment %}
+            <img class="virs_icon" src="{% static 'img/covid-virs2.png' %}" width="100%%" border-left="-20px" alt="">
+        </div>
+        <div class="sidebar-brand-text mx-2"> COVID-19 </div>
+    </a>
+
+    <!-- Divider -->
+    <hr class="sidebar-divider my-0">
+
+    <!-- Nav Item - 主页 -->
+    <li class="nav-item active">
+        <a class="nav-link" href="{% url 'Entry_FW:index' %}">
+            <i class="fas fa-fw fa-tachometer-alt"></i>
+            <span>主页</span></a>
+    </li>
+
+    <!-- Divider -->
+    <hr class="sidebar-divider">
+
+    <!-- Heading -->
+    <div class="sidebar-heading">
+        工作台
+    </div>
+
+    {% comment %} 对知识图谱的项目进行细分 {% endcomment %}
+    {% for proj in projects %}
+    <!-- Nav Item - Pages Collapse Menu -->
+    <li class="nav-item">
+        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapse{{ forloop.counter }}"
+            aria-expanded="true" aria-controls="collapse{{ forloop.counter }}">
+            <i class="fas fa-fw {{ proj.0.1 }}"></i>
+            <span>{{ proj.0.0 }}</span>
+        </a>
+        <div id="collapse{{ forloop.counter }}" class="collapse" aria-labelledby="headingTwo"
+            data-parent="#accordionSidebar">
+            <div class="bg-white py-2 collapse-inner rounded">
+                {% comment %} <h6 class="collapse-header">Custom Components:</h6> {% endcomment %}
+                {% for work,url in proj.1.items %}
+                <a class="collapse-item" href="{{ url }}" data-url="{{ url }}">{{ work }}</a>
+                {% endfor %}
+            </div>
+        </div>
+    </li>
+    {% endfor %}
+
+    <!-- Divider -->
+    <hr class="sidebar-divider">
+
+    <!-- Heading -->
+    <div class="sidebar-heading">
+        实时疫情
+    </div>
+
+    {% for item in rt_info %}
+    <li class="nav-item">
+        <a class="nav-link container-update" href="JavaScript:;" data-url={{ item.2 }}>
+            <i class="fas fa-fw  {{ item.1 }}"></i>
+            <span>{{ item.0 }}</span>
+        </a>
+            <a class="nav-link container-update" href="JavaScript:;" data-url={{ item.2 }}>
+            <i class="fas fa-fw  {{ item.1 }}"></i>
+            <span>qwe</span>
+        </a>
+    </li>
+
+    {% endfor %}
+
+    <!-- Divider -->
+    <hr class="sidebar-divider d-none d-md-block">
+
+    <!-- Sidebar Toggler (Sidebar) -->
+    <div class="text-center d-none d-md-inline">
+        <button class="rounded-circle border-0" id="sidebarToggle"></button>
+    </div>
+
+</ul>
+<!-- End of Sidebar -->
+
+<script src="{% static 'Entry_FW/js/sidebar.js' %}"></script>

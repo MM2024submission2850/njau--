@@ -1,0 +1,264 @@
+{% comment %} 用于构建概述信息页面 {% endcomment %}
+{% load static %}
+<!-- Page Heading -->
+<!-- <div class="d-sm-flex align-items-center justify-content-between mb-4">
+  <h1 class="h3 mb-0 text-gray-800">摘要</h1>
+  <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i
+      class="fas fa-download fa-sm text-white-50"></i> Generate Report</a>
+</div> -->
+
+<!-- Content Row -->
+<div class="row">
+
+  {% comment %} 对疫情数据进行表示 item=(名称，数字，色系) 色系=(primary,info,warning,success,) {% endcomment %}
+  {% for item in dataset %}
+  <div class="col-xl-3 col-md-6 mb-4">
+    <div class="card border-left-{{ item.2 }} shadow h-100 py-2">
+      <div class="card-body">
+        <div class="row no-gutters align-items-center">
+          <div class="col mr-2">
+            <div class="text-xs font-weight-bold text-{{ item.2 }} text-uppercase mb-1">{{ item.0 }}</div>
+            <div class="h5 mb-0 font-weight-bold text-gray-800">{{ item.1 }}</div>
+          </div>
+          <!-- <div class="col-auto">
+            <i class="fas fa-calendar fa-2x text-gray-300"></i>
+          </div> -->
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+
+  <!-- Content Row -->
+  <div class="row">
+
+
+    <div class="col-lg-6 mb-4">
+
+      <!-- 疾病简介等 -->
+      <div class="card shadow mb-4">
+        <div class="card-header py-3">
+          <h6 class="m-0 font-weight-bold text-primary">疾病定义</h6>
+        </div>
+        <div class="card-body">
+          <div class="text-center">
+            <img class="img-fluid px-3 px-sm-4 mt-3 mb-4" style="width: 25rem;" src="{% static 'img/p22.jpg' %}" alt="">
+          </div>
+          <p>
+            新型冠状病毒肺炎是一种急性感染性肺炎，其病原体是一种先前未在人类中发现的新型冠状病毒，即2019新型冠状病毒。2020年2月7日，国家卫健委决定将“新型冠状病毒感染的肺炎”暂命名为“新型冠状病毒肺炎”，简称“新冠肺炎”。2月11日，世界卫生组织（WHO）将其英文名称为Corona
+            Virus Disease 2019（COVID-19）。2月22日，国家卫健委决定将“新型冠状病毒肺炎”英文名称修订为“COVID-19”，与世界卫生组织命名保持一致，中文名称保持不变。</p>
+          <p> 2020年1月30日，WHO宣布将新型冠状病毒肺炎疫情列为<a class="explain" data-explain-id="56190"
+              data-explain-title="">国际关注的突发公共卫生事件</a>（PHEIC）。</p>
+          <p>患者初始症状多为发热、乏力和干咳，并逐渐出现呼吸困难等严重表现。多数患者预后良好，部分严重病例可出现急性呼吸窘迫综合征或脓毒症休克，甚至死亡。目前，缺乏针对病原体的有效抗病毒药物，以隔离治疗、对症支持治疗为主。
+          </p>
+          <a target="_blank" rel="nofollow"
+            href="https://www.baidu.com/bh/dict/ydxx_8829639274010099959?contentid=ydxx_8829639274010099959&frsrcid=search_fy&from=dicta">
+            获取COVID的更多信息 &rarr;
+          </a>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="col-lg-6 mb-4">
+      <!-- Approach -->
+      <div class="card shadow mb-4">
+        <div class="card-header py-3">
+          <h6 class="m-0 font-weight-bold text-primary">感染症状&预防措施</h6>
+        </div>
+        <div class="card-body">
+          <ul class="health-dict__overview__text__level1-tag__texts" data-a-b66c5a20="">
+            <li class="health-dict__overview__text__level1-tag__texts__text" data-a-b66c5a20="">新型冠状病毒感染所致肺炎</li>
+            <li class="health-dict__overview__text__level1-tag__texts__text" data-a-b66c5a20="">起初发热、乏力、干咳，逐渐出现呼吸困难等
+            </li>
+            <li class="health-dict__overview__text__level1-tag__texts__text" data-a-b66c5a20="">具备人传染人的能力，正确佩戴口罩加强防护
+            </li>
+            <li class="health-dict__overview__text__level1-tag__texts__text" data-a-b66c5a20="">多数预后良好，少数病情危重，甚至可致死亡
+            </li>
+          </ul>
+          <br>
+          <a>具体预防手段如下:</a>
+          <ul>
+            <li class="health-dict__overview__text__level1-tag__texts__text" data-a-b66c5a20="">
+              尽量减少外出，不要去人群聚集处，避免近距离接触任何有感冒或流感样症状的人；</li>
+            <li class="health-dict__overview__text__level1-tag__texts__text" data-a-b66c5a20="">
+              外出前往公共场所、就医和乘坐交通工具时，注意佩戴医用外科口罩或N95口罩；</li>
+            <li class="health-dict__overview__text__level1-tag__texts__text" data-a-b66c5a20="">
+              不要接触、购买和食用野生动物（即野味），避免在未加防护的情况下接触野生动物和家禽家畜；</li>
+            <li class="health-dict__overview__text__level1-tag__texts__text" data-a-b66c5a20="">
+              注意手卫生，勤洗手，使用洗手液或肥皂，流水洗手，或使用含酒精成分的免洗洗手液；</li>
+            <li class="health-dict__overview__text__level1-tag__texts__text" data-a-b66c5a20="">
+              打喷嚏或咳嗽时不要用手去捂，要用手肘部或纸巾遮住口、鼻；</li>
+            <li class="health-dict__overview__text__level1-tag__texts__text" data-a-b66c5a20="">
+              居室及工作场所保持清洁，勤开窗，多保持通风状态；</li>
+            <li class="health-dict__overview__text__level1-tag__texts__text" data-a-b66c5a20="">
+              注意多喝水、多休息、避免熬夜、适度运动，以提高个体免疫能力；注意营养、合理饮食，肉类、禽类和蛋类要充分煮熟后食用；</li>
+            <li class="health-dict__overview__text__level1-tag__texts__text" data-a-b66c5a20="">
+              准备常用物资，如体温计、一次性口罩、家庭用消毒用品等。</li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Content Column -->
+    <div class="col-lg-6 mb-4">
+
+      <!-- Project Card 目前的研究进展 -->
+      {% if project %}
+
+      <div class="card shadow mb-4">
+        <div class="card-header py-3">
+          <h6 class="m-0 font-weight-bold text-primary">Projects</h6>
+        </div>
+        <div class="card-body">
+          {% comment %} 绘制表项 subproj=(name,value,color)
+          color=(primary,success,info,warning,danger,secondary){% endcomment %}
+          {% for subproj in project %}
+          <h4 class="small font-weight-bold">{{ subproj.0 }} <span class="float-right">20%</span></h4>
+          <div class="progress mb-4">
+            <div class="progress-bar bg-{{subproj.2}}" role="progressbar" style="width: 20%"
+              aria-valuenow="{{ subproj.1 }}" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+          {% endfor %}
+
+        </div>
+      </div>
+      {% endif %}
+
+
+      {% comment %} 颜色系统，用于做什么还不确定
+      <!-- Color System -->
+      <div class="row">
+        <div class="col-lg-6 mb-4">
+          <div class="card bg-primary text-white shadow">
+            <div class="card-body">
+              Primary
+              <div class="text-white-50 small">#4e73df</div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 mb-4">
+          <div class="card bg-success text-white shadow">
+            <div class="card-body">
+              Success
+              <div class="text-white-50 small">#1cc88a</div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 mb-4">
+          <div class="card bg-info text-white shadow">
+            <div class="card-body">
+              Info
+              <div class="text-white-50 small">#36b9cc</div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 mb-4">
+          <div class="card bg-warning text-white shadow">
+            <div class="card-body">
+              Warning
+              <div class="text-white-50 small">#f6c23e</div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 mb-4">
+          <div class="card bg-danger text-white shadow">
+            <div class="card-body">
+              Danger
+              <div class="text-white-50 small">#e74a3b</div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 mb-4">
+          <div class="card bg-secondary text-white shadow">
+            <div class="card-body">
+              Secondary
+              <div class="text-white-50 small">#858796</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endcomment %}
+    </div>
+
+  </div>
+
+
+
+
+
+  {% comment %} 最下方两个图标，展示不准备显示
+  <!-- Content Row -->
+  <div class="row">
+
+    <!-- Area Chart -->
+    <div class="col-xl-8 col-lg-7">
+      <div class="card shadow mb-4">
+        <!-- Card Header - Dropdown -->
+        <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+          <h6 class="m-0 font-weight-bold text-primary">进展趋势</h6>
+          <div class="dropdown no-arrow">
+            <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown"
+              aria-haspopup="true" aria-expanded="false">
+              <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+            </a>
+            <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+              <div class="dropdown-header">Dropdown Header:</div>
+              <a class="dropdown-item" href="#">Action</a>
+              <a class="dropdown-item" href="#">Another action</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Something else here</a>
+            </div>
+          </div>
+        </div>
+        <!-- Card Body -->
+        <div class="card-body">
+          <div class="chart-area">
+            <canvas id="myAreaChart"></canvas>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Pie Chart -->
+    <div class="col-xl-4 col-lg-5">
+      <div class="card shadow mb-4">
+        <!-- Card Header - Dropdown -->
+        <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+          <h6 class="m-0 font-weight-bold text-primary">文献分布</h6>
+          <div class="dropdown no-arrow">
+            <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown"
+              aria-haspopup="true" aria-expanded="false">
+              <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+            </a>
+            <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
+              <div class="dropdown-header">Dropdown Header:</div>
+              <a class="dropdown-item" href="#">Action</a>
+              <a class="dropdown-item" href="#">Another action</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Something else here</a>
+            </div>
+          </div>
+        </div>
+        <!-- Card Body -->
+        <div class="card-body">
+          <div class="chart-pie pt-4 pb-2">
+            <canvas id="myPieChart"></canvas>
+          </div>
+          <div class="mt-4 text-center small">
+            <span class="mr-2">
+              <i class="fas fa-circle text-primary"></i> Direct
+            </span>
+            <span class="mr-2">
+              <i class="fas fa-circle text-success"></i> Social
+            </span>
+            <span class="mr-2">
+              <i class="fas fa-circle text-info"></i> Referral
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endcomment %}

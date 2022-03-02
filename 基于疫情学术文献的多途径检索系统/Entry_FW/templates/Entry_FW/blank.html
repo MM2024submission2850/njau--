@@ -1,0 +1,345 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8"><link rel="icon" href="https://jscdn.com.cn/highcharts/images/favicon.ico">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+		<link rel="stylesheet" href="../../static/css/app.css" />
+        <style>
+            .container, .container-fluid{
+
+            }
+            .container, .container-fluid{
+                width: 80%;
+
+            }
+            #wrapper #content-wrapper{
+               background-color:#BBDEFB;
+            }
+            .bg-white{
+                background-color:transparent !important;
+            }
+            .wrapper{
+                left: 250px;
+            }
+
+
+        </style>
+
+    </head>
+   <body style="background-color: #BBDEFB">
+   <h3 style="margin-left: -100px">统计结果</h3>
+		<div class="wrapper">
+			<div class="container-fluid">
+				<div class="row fill-h">
+					<div class="col-lg-4 fill-h">
+						<div class="xpanel-wrapper xpanel-wrapper-1-2">
+							<div class="xpanel">
+								<div class="fill-h" id="wordChart" style="margin-top: 10px"></div>
+							</div>
+						</div>
+						<div class="xpanel-wrapper xpanel-wrapper-1-2">
+							<div class="xpanel">
+								<div class="fill-h" id="tiao"></div>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-8 fill-h">
+						<div class="xpanel-wrapper xpanel-wrapper-2-3">
+							<div class="xpanel">
+								<div class="fill-h" id="qikanshoulu" style="margin-top: 15px"></div>
+							</div>
+						</div>
+						<div class="xpanel-wrapper xpanel-wrapper-1-3">
+							<div class="xpanel">
+								<div class="fill-h" id="leibie"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		</div>
+
+		<script type="text/javascript" src="../../static/js/jquery-3.3.1.min.js"></script>
+		<script type="text/javascript" src="../../static/js/echarts-3.8.5.min.js"></script>
+		<script type="text/javascript" src="../../static/js/echarts-wordcloud.min.js"></script>
+
+
+
+		<script type="text/javascript">//条形图
+        // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('tiao'));
+        // 指定图表的配置项和数据
+        var option = {
+            color: ['#626c91'],
+            title: {
+                text: '作者发文量',
+            },
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    type: 'shadow'
+                },
+                textStyle:{
+		            fontWeight: 'bolder'
+		        }
+            },
+            legend: {
+                data: ['发文量']
+            },
+            grid: {
+                left: '3%',
+                right: '4%',
+                bottom: '3%',
+                containLabel: true
+            },
+            xAxis: {
+                type: 'value',
+                boundaryGap: [0, 0.01]
+            },
+            yAxis: {
+                type: 'category',
+                data: ['Wei Wang', 'Giuseppe Lippi', 'Lei Liu', 'Jing Liu', 'Yan Wang', 'Hui Wang',
+                'Shibo Jiang','Fang Liu','Sheng Zhang','Lanying Du','Jun Liu','Tao Wang','Yong Xiong']
+            },
+            series: [
+                {
+                    name: '发文量',
+                    type: 'bar',
+                    data: [14,13,13,12,12,11,9,9,9,9,9,8,8]
+                }
+            ]
+        };
+
+        // 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+    </script>
+
+        <script type="text/javascript">
+
+
+        // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('qikanshoulu'));
+
+        // 指定图表的配置项和数据
+        var option = {
+            color: ['#626c91'],
+            title: {
+                text: '相关文献期刊收录量排行'
+            },
+            tooltip: {
+
+                textStyle:{
+		            fontWeight: 'bolder'
+		        }},
+            legend: {
+                data:['期刊名: 期刊收录量']
+            },
+            xAxis: {
+                data: ["Med Virol","Infect Dis","Public Health","Surveill","Clin Virol","Infect",
+                "Environ","Cureus","Venereo","JPH Surveill","ERMP Sci","EM Infect"],
+                axisLabel:{
+                    rotate:40
+                },
+            },
+            yAxis: {
+                title:{
+                    text:'收录量（篇）'}},
+            series: [{
+                name: '期刊名: 期刊收录量',
+                type: 'bar',
+                data: [142, 56, 50, 37, 37, 36,34,34,31,28,27,27]
+            }]
+        };
+
+        // 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+    </script>
+
+
+		<script type="text/javascript">
+			$(function() {
+
+
+
+
+				/*************** bingtu **************/
+            var chartDom = document.getElementById('leibie');
+			var myChart = echarts.init(chartDom);
+			var option;
+
+			option = {
+title: {
+                text: '文献类别占比'
+            },
+				tooltip: {
+					trigger: 'item'
+				},
+				legend: {
+					top: '5%',
+					left: 'center'
+				},
+				series: [{
+					name: '类别',
+					type: 'pie',
+					radius: ['40%', '70%'],
+					avoidLabelOverlap: false,
+					itemStyle: {
+						borderRadius: 10,
+						borderColor: '#fff',
+						borderWidth: 2
+					},
+					label: {
+						show: false,
+						position: 'center'
+					},
+					emphasis: {
+						label: {
+							show: true,
+							fontSize: '15',
+							fontWeight: 'bold'
+						}
+					},
+					labelLine: {
+						show: false
+					},
+					data: [{
+							value: 286,
+							name: 'Organisms'
+						},
+						{
+							value: 181,
+							name: 'Anatomy'
+						},
+						{
+							value: 1141,
+							name: 'Diseases'
+						},
+						{
+							value: 560,
+							name: 'Chemicals and Drugs'
+						},
+						{
+							value: 1345,
+							name: 'Techniques and Equipment'
+						},
+						{
+							value: 978,
+							name: 'Phenomena and Processes'
+						},
+						{
+							value: 7,
+							name: 'Other'
+						}
+					]
+				}]
+			};
+
+			option && myChart.setOption(option);
+
+
+
+				/*************** 词云 **************/
+				//https://github.com/ecomfe/echarts-wordcloud
+				//初始化echarts实例
+				const wordChart= echarts.init(document.getElementById("wordChart"));
+				const wordOpt = {
+				    series: [{
+
+				        type: 'wordCloud',
+				        shape: 'circle', //circle cardioid diamond triangle-forward triangle
+				       	left: 0,
+				       	right: 0,
+				       	top: 0,
+				       	right: 0,
+				       	width: '100%',
+				       	height: '100%',
+				        gridSize: 0, //值越大，word间的距离越大，单位像素
+				        sizeRange: [20, 42], //word的字体大小区间，单位像素
+				        rotationRange: [-90, 90], //word的可旋转角度区间
+
+				        textStyle: {
+				            normal: {
+				                color: function() {
+				                    return 'rgb(' + [
+				                        Math.round(Math.random() * 160),
+				                        Math.round(Math.random() * 160),
+				                        Math.round(Math.random() * 160)
+				                    ].join(',') + ')';
+				                }
+				            },
+				            emphasis: {
+				                shadowBlur: 2,
+				                shadowColor: '#000'
+				            }
+				        },
+				        data: [{
+				            name: '',
+				            value: 3000,
+				            textStyle: {
+				            	normal: {color: '#f52f55'},
+				            	emphasis: {
+                                    label: {
+							show: true,
+							fontSize: '15',
+							fontWeight: 'bold'
+						}
+                                }
+				            }
+				        }, {
+				            name: 'SARS-CoV-2',
+				            value: 11640
+				        }, {
+				            name: 'COVID-19',
+				            value: 8482
+				        }, {
+				            name: 'Coronavirus',
+				            value: 701
+				        }, {
+				            name: 'Disease',
+				            value: 197
+				        }, {
+				            name: '2019-nCoV',
+				            value: 169
+				        }, {
+				            name: 'Clinical',
+				            value: 117
+				        }, {
+				            name: 'Infection',
+				            value: 95
+				        }, {
+				            name: 'Pandemic',
+				            value: 94
+				        }, {
+				            name: 'Patients',
+				            value: 88
+				        }, {
+				            name: 'Health',
+				            value: 82
+				        }, {
+				            name: 'Pneumonia',
+				            value: 77
+				        }]
+				    }],
+				    backgroundColor: 'rgba(255, 255, 255, 0.7)'
+				};
+				wordChart.setOption(wordOpt);
+
+				/********** 窗口大小改变时，重置报表大小 ********************/
+				window.onresize = function() {
+					wordChart.resize();
+					ballChart.resize();
+					relationChart.resize();
+					fireworksChart.resize();
+					mapChart.resize();
+				};
+			});
+		</script>
+	</body>
+
+
+</html>
+

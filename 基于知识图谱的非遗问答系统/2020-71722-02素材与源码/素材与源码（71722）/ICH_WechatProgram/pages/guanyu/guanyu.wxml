@@ -1,0 +1,33 @@
+<!--pages/guanyu/guanyu.wxml-->
+<!-- 背景 -->
+  <view class="bg" >
+    <!-- <image class="bg-image" mode="scaleToFill"></image> -->
+    <image class='background' src="https://wx4.sinaimg.cn/mw690/005MYlQHly1gdbw01v9izj32jj3t7hdw.jpg" mode="aspectFill"></image>
+  <view class="logo">  <image src="../../img/logo000.png"/></view>
+<view class="content">
+  <text class="wenzi" decode="{{true}}" space="{{true}}"><text class="wenzi1">制作背景和意义</text>
+&nbsp;&nbsp;&nbsp;&nbsp;随着大数据时代的到来，信息内容呈爆炸式增长，知识的存储和处理规模越来越大。同时，人们对知识的渴望不再局限于获取，而是更加关注知识与知识之间的关系，这使得知识可视化的重要性日益显现。知识图谱因能够以清晰、动态的形式揭示知识之间的关系，在学术界和工业界得到了大量关注。
+</text>
+<image class="pt" src="https://wx4.sinaimg.cn/mw690/005MYlQHly1gdbw02mpx9j30jb0jbwky.jpg"/>
+<text class="wenzi" decode="{{true}}" space="{{true}}">
+&nbsp;&nbsp;&nbsp;&nbsp;非物质文化遗产（以下简称“非遗”）是一种文化瑰宝，是数千年来文化的沉淀。然而，在云计算与大数据时代，非物质文化遗产的传承与发展，面临着考验与冲击。相关学者曾指出，对非遗海量文化数据与信息的计算和利用将成为设计创新重要的文化根基和平台，对数据关联性的有效利用将成为当代人文需求与历史文化传统对接的突破口。
+
+<text class="wenzi1">非遗知识问答现状</text>
+&nbsp;&nbsp;&nbsp;&nbsp;提起非物质文化遗产，很多人脑海中的第一个问题会是：非遗是什么？而了解具体项目信息的人更是寥寥无几。这为非遗文化的保护、传播与传承带来了阻碍。
+&nbsp;&nbsp;&nbsp;&nbsp;目前，网络资源库中具有比较完整的国家级非物质文化遗产项目信息，但是省级数据缺失严重。同时，非遗数据处于不断新增的状态，这为相关知识的组织和管理带来了挑战。另一方面，有学者曾以“二十四节气”为主题构建了知识图谱，而并未有人对于整个非遗项目库构建图谱，基于此的专题问答系统也未曾诞生。人们在面对未知的非遗项目时，多会选择百度、谷歌等搜索引擎，而这种方式耗时耗力。
+
+<text class="wenzi1">项目介绍</text>
+&nbsp;&nbsp;&nbsp;&nbsp;本项目主要使用知识图谱相关技术以及神经网络算法，建立基于知识图谱的非物质文化遗产自动问答系统。系统主要包含三部分：数据存储、问句分析、答案检索。具体每一部分涉及的处理流程如下图所示。
+</text> 
+
+   <image class="pt" src="../../img/1.jpg"/>
+<text class="wenzi" decode="{{true}}" space="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;系统的数据源自国家级非物质文化遗产名录，共有包含传统音乐、传统舞蹈、民俗等在内的十个大类2200个项目。通过对项目信息进行清洗、划分属性、融合，最终我们的知识图谱中共有四种实体（项目、人物、地区、类别），五种关系（属于、归类于、继承、关于、被继承）（以上知识存储在neo4j图数据库中）。同时，为了提高系统效果，应对无法从图谱中找寻到答案的情况，我们抓取了近500条问句答案对存储与sqlite3中。
+</text>
+<image class="pt" src="../../img/graph.png"/>
+<text class="wenzi" decode="{{true}}" space="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;在问句分析环节，我们使用了Bi-LSTM模型对预先人工标注好的问句语料进行深度学习，实现端到端的自动标注，从而获取问句中的实体自动抽取模型。
+&nbsp;&nbsp;&nbsp;&nbsp;在答案检索阶段，用户输入要查询的问题，通过调用神经网络模型，识别出其中的实体，通过编写Cypher语句关联到知识图谱中相应的实体部分，借助知识推理进行答案搜寻；若查找失败，再将问题与辅助数据库中的信息进行相似度匹配，取匹配度最高的问题的答案输出，如果相似度低于0.4，则提示查找失败。\n
+</text>
+</view>
+  </view>
+    
+
